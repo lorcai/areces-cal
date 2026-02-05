@@ -5,7 +5,7 @@ from normalize import normalize_event
 from uid_store import load_uid_map, save_uid_map, uid_for_event
 from ics_generator import generate_ics
 
-ICS_PATH = Path("calendars/fundacion_areces.ics")
+ICS_PATH = Path("docs/fundacion_areces.ics")
 
 def main():
     html = fetch_html()
