@@ -1,0 +1,25 @@
+from icalendar import Calendar, Event
+from datetime import datetime, timezone
+
+def generate_ics(events):
+    cal = Calendar()
+    cal.add("prodid", "-//Research Events//Areces//EN")
+    cal.add("version", "2.0")
+
+    now = datetime.now(timezone.utc)
+
+    for e in sorted(events, key=lambda x: x["start"]):
+        ve = Event()
+        ve.add("uid", e["uid"])
+        ve.add("summary", e["title"])
+        ve.add("dtstart", e["start"])
+        ve.add("dtend", e["end"])
+        ve.add("dtstamp", now)
+        ve.add("url", e["url"])
+        if e["location"]:
+            ve.add("location", e["location"])
+
+        cal.add_component(ve)
+
+    return cal.to_ical()
+

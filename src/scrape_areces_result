@@ -1,0 +1,1752 @@
+
+<!DOCTYPE html>
+
+<html class="no-js" lang="es">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		
+	<title>Actividades - Fundación Ramón Areces</title>
+
+<meta name="copyright" content="Intermark IT" />
+<meta name="generator" content="webControl CMS 3.2" />
+<meta name="distribution" content="global"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5" />
+
+
+					<meta name="google-site-verification" content="fsOp4nnt4UTf9tL1Kwxl3oLmeb7cDw4Yrgf1s8IDK0o"/>
+				
+					<meta name="publisher" content="webControl CMS"/>
+				
+
+<link rel="stylesheet" href="https://use.typekit.net/wck4vel.css">
+<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&display=swap" rel="stylesheet">
+
+<link rel="shortcut icon" href="/fundacionareces/favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" href="/fundacionareces/public/css/fuente/fuente.css" />
+<link rel="stylesheet" type="text/css" href="/fundacionareces/public/css/ui/jquery-ui.css" />
+<link rel="stylesheet" type="text/css" href="/fundacionareces/public/css/ui/jquery-ui-timepicker-addon.css" />
+<link rel="stylesheet" type="text/css" href="/fundacionareces/public/css/portal/grid-1200.css" />
+<link rel="stylesheet" type="text/css" href="/fundacionareces/public/css/portal/portal.css" />
+<link rel="stylesheet" type="text/css" href="/fundacionareces/public/css/portal/plantilla.css" />
+
+
+<link rel="stylesheet" type="text/css" href="/fundacionareces/public/plugin/alert/css/alert.css" />
+<link rel="stylesheet" type="text/css" href="/fundacionareces/public/plugin/colorbox/css/colorbox.css" />
+<link rel="stylesheet" type="text/css" href="/fundacionareces/public/plugin/oembed/css/oembed.css" />
+<link rel="stylesheet" type="text/css" href="/fundacionareces/public/plugin/owlCarousel/css/owl.carousel.css" />
+<link rel="stylesheet" type="text/css" href="/fundacionareces/public/plugin/easyResponsiveTabs/css/easy-responsive-tabs.css" />
+<link rel="stylesheet" type="text/css" href="/fundacionareces/public/plugin/highlight/styles/monokai_sublime.css" />
+<link rel="stylesheet" type="text/css" href="/fundacionareces/public/plugin/klaro/css/klaro.css" />
+
+			<link rel="stylesheet" type="text/css" href="/fundacionareces/public/media/mediaelementjs/mediaelementplayer.css" />
+		
+<link href="/fundacionareces/public/css/aplicacion/agenda.css" media="all" type="text/css" rel="stylesheet" />
+
+	<link rel="stylesheet" type="text/css" href="/fundacionareces/public/css/comun/idioma-es-s0.css" />
+
+											<link rel="alternate" href="https://www.fundacionareces.es/fundacionareces/es/actividades/" hreflang="es" />
+										
+											<link rel="alternate" href="https://www.fundacionareces.es/fundacionareces/en/events/" hreflang="en" />
+										
+<link rel="stylesheet" type="text/css" href="/fundacionareces/public/css/portal/impresion.css" media="print" />
+
+<script type="text/javascript" src="/fundacionareces/public/js/portal/jquery-3.7.0.min.js?__SKIP__=1" charset="utf-8"></script>
+<script type="text/javascript" src="/fundacionareces/public/js/portal/jquery-migrate-3.4.0.min.js?__SKIP__=1" charset="utf-8"></script>
+<!-- here we include the Klaro config and script -->
+<script defer type="text/javascript" src="/fundacionareces/public/plugin/klaro/config.js?__SKIP__=1"></script>
+<script defer type="text/javascript" src="/fundacionareces/public/plugin/klaro/klaro.js?__SKIP__=1" data-style-prefix="cookies"></script>
+<!--[if lte IE 8]>
+	<script type="text/javascript" src="/fundacionareces/public/plugin/selectivizr/selectivizr-1.0.2.min.js" charset="utf-8"></script>
+	<style type="text/css">
+		/* estilos para aplicar CSS3 a IE8 */
+		input[type="text"],
+		input[type="password"],
+		input[type="file"],
+		input[type="submit"],
+		input[type="button"],
+		input[type="reset"],
+		textarea,
+		select  {
+			behavior: url('/fundacionareces/PIE.htc');
+			position: relative;
+		}
+	</style>
+<![endif]-->
+<!-- Google Tag Manager -->
+	<script type="opt-in" data-type="application/javascript" data-name="analitica">
+		(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-M34XJB');
+	</script>
+
+	</head>
+	<body id="main-body">
+		<!-- Google Tag Manager (noscript) -->
+				<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-M34XJB" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+				<!-- End Google Tag Manager (noscript) -->
+		<div id="page">
+		
+			<!-- Cabecera -->
+			<a href="#recurso" tabindex="0" class="mensaje skip">Saltar navegación. Ir directamente al contenido principal</a>
+			<header id="main-header">
+				<div class="container-fluid">
+					
+		<p class="logo">
+			<a href="https://www.fundacionareces.es/fundacionareces/es/">
+				<img src="/fundacionareces/public/img/comun/portal/logo.png" alt="Fundación Ramón Areces" />
+			</a>
+		</p> 
+	
+			<div class="idioma" aria-label='Secci&oacute;n de idiomas'>
+				
+						<button type="button" aria-expanded="false" aria-controls="list_idioma" aria-label='Abrir idiomas'>
+							ES
+						</button>
+					
+				<ul id="list_idioma">
+					
+								<li>
+									<strong>ES</strong>
+								</li>
+							
+								<li>
+									
+											<a href="https://www.fundacionareces.es/fundacionareces/en/events/" hreflang="en">
+												EN
+											</a>
+										
+								</li>
+							
+				</ul>
+			</div>
+		
+					<div class="caja-cab">
+						
+<div id="accesoAreaPrivada" class="zona-privada">
+	<button class="mostrar" aria-expanded="false" aria-controls="a_acceso"><span class="hidden-phone">Acceso / Registro</span></button>
+	<div class="caja-usuario"></div>
+</div>
+	<p class="mensaje">Secci&oacute;n de utilidades</p>
+	<p id="utilidades">
+		
+				<span>
+					
+						<a  href="https://www.fundacionareces.es/fundacionareces/es/actividades/" accesskey="">
+						Agenda
+						</a>
+					
+				</span>
+			
+	</p>
+	<p class="mensaje">Fin de la secci&oacute;n de utilidades</p>
+
+
+<button id="ver-buscador" aria-controls="buscador" title='Abrir buscador'></button>
+
+<dialog id="buscador" class="caja-buscador" aria-hidden="true">
+	<button id="cerrar-buscador" class="cerrar" title="Cerrar buscador"></button>
+	<form id="buscadorGeneralForm" method="get" action="/fundacionareces/es/buscadorGeneral.do">
+		<div>
+			<input type="hidden" name="tiposBusqueda" value="C|M|D|PU|PR|N|A|CO|TE" />
+			<label for="textobusqueda">
+				<input type="text" name="textoBusqueda" id="textobusqueda" value="Buscar" />
+			</label>
+			<input type="image" src="/fundacionareces/public/img/comun/icono/lupa.svg" title="Buscar" alt="Buscar" id="botonbuscador" class="buscar" />
+		</div>
+	</form>
+</dialog>
+						<button id="ver-menu" type="button" aria-haspopup="true" aria-controls="menu" aria-label='Mostrar menú'>
+							MENÚ
+						</button>
+					</div>
+				</div>
+			</header>
+				
+			<div id="main-nav">
+				<button type="button" id="cerrar-menu" class="cerrar" aria-haspopup="true" aria-controls="menu"></button>	
+				
+				<div class="container">
+					
+			<div class="idioma" aria-label='Secci&oacute;n de idiomas'>
+				
+						<button type="button" aria-expanded="false" aria-controls="list_idioma" aria-label='Abrir idiomas'>
+							ES
+						</button>
+					
+				<ul id="list_idioma">
+					
+								<li>
+									<strong>ES</strong>
+								</li>
+							
+								<li>
+									
+											<a href="https://www.fundacionareces.es/fundacionareces/en/events/" hreflang="en">
+												EN
+											</a>
+										
+								</li>
+							
+				</ul>
+			</div>
+		
+					<nav class="nav" aria-label='Menú principal'>
+						
+<span class="mensaje">Menú principal</span>
+
+			<ul id="menu" class="n1" role="menu" aria-labelledby="ver-menu">
+				
+						<li class="pmcon" role="menuitem">
+							
+			<a class="link-menu"  href="https://www.fundacionareces.es/fundacionareces/es/programa-de-retonorno-del-talento/">Programa Retorno</a>
+		
+	<h2 class="cab_submenu">
+		<strong>Programa Retorno</strong>
+	
+		
+				<a  href="https://www.fundacionareces.es/fundacionareces/es/programa-de-retonorno-del-talento/">Ampliar información</a>
+			
+	</h2>
+
+
+			<ul class="n2" role="menu">
+				
+							<li class="pmsin" role="menuitem">
+								
+			<a class="link-menu"  href="https://www.fundacionareces.es/fundacionareces/es/programa-de-retonorno-del-talento/edicion-2025/">Edición 2025</a>
+		
+							</li>
+						
+							<li class="pmsin" role="menuitem">
+								
+			<a class="link-menu"  href="https://www.fundacionareces.es/fundacionareces/es/programa-de-retonorno-del-talento/edicion-2024/">Edición 2024</a>
+		
+							</li>
+						
+							<li class="pmsin ultimo" role="menuitem">
+								
+			<a class="link-menu"  href="https://www.fundacionareces.es/fundacionareces/es/programa-de-retonorno-del-talento/edicion-2023/">Edición 2023</a>
+		
+							</li>
+						
+			</ul>
+		
+						</li>
+					
+						<li class="pmcon" role="menuitem">
+							
+			<a class="link-menu"  href="https://www.fundacionareces.es/fundacionareces/es/programa-pinera/">Programa PINERA</a>
+		
+	<h2 class="cab_submenu">
+		<strong>Programa PINERA</strong>
+	
+		
+				<a  href="https://www.fundacionareces.es/fundacionareces/es/programa-pinera/">Ampliar información</a>
+			
+	</h2>
+
+
+			<ul class="n2" role="menu">
+				
+							<li class="pmsin" role="menuitem">
+								
+			<a class="link-menu"  href="https://www.fundacionareces.es/fundacionareces/es/programa-pinera/programa-pinera-2025/">Programa PINERA 2025</a>
+		
+							</li>
+						
+							<li class="pmsin" role="menuitem">
+								
+			<a class="link-menu"  href="https://www.fundacionareces.es/fundacionareces/es/programa-pinera/programa-pinera-2024/">Programa PINERA 2024</a>
+		
+							</li>
+						
+			</ul>
+		
+						</li>
+					
+						<li class="pmcon" role="menuitem">
+							
+			<a class="link-menu"  href="https://www.fundacionareces.es/fundacionareces/es/convocatorias/">Convocatorias</a>
+		
+	<h2 class="cab_submenu">
+		<strong>Convocatorias</strong>
+	
+		
+				<a  href="https://www.fundacionareces.es/fundacionareces/es/convocatorias/">Ampliar información</a>
+			
+	</h2>
+
+
+			<ul class="n2" role="menu">
+				
+							<li class="pmsin primero" role="menuitem">
+								
+			<a class="link-menu"  href="https://www.fundacionareces.es/fundacionareces/es/convocatorias/becas-y-ayudas/">Becas y Ayudas</a>
+		
+							</li>
+						
+							<li class="pmsin" role="menuitem">
+								
+			<a class="link-menu"  href="https://www.fundacionareces.es/fundacionareces/es/convocatorias/becarios/">Becarios</a>
+		
+							</li>
+						
+							<li class="pmsin" role="menuitem">
+								
+			<a class="link-menu"  href="https://www.fundacionareces.es/fundacionareces/es/convocatorias/tesis-doctorales/">Tesis doctorales</a>
+		
+							</li>
+						
+							<li class="pmsin" role="menuitem">
+								
+			<a class="link-menu"  href="https://www.fundacionareces.es/fundacionareces/es/convocatorias/ayudas-post-doctorales/">Ayudas Post-Doctorales</a>
+		
+							</li>
+						
+							<li class="pmsin ultimo" role="menuitem">
+								
+			<a class="link-menu"  href="https://www.fundacionareces.es/fundacionareces/es/convocatorias/proyectos-de-investigacion/">Proyectos de investigación</a>
+		
+							</li>
+						
+			</ul>
+		
+						</li>
+					
+						<li class="pmcon" role="menuitem">
+							
+			<a class="link-menu"  href="https://www.fundacionareces.es/fundacionareces/es/sobre-nosotros/">Sobre nosotros</a>
+		
+	<h2 class="cab_submenu">
+		<strong>Sobre nosotros</strong>
+	
+		
+				<a  href="https://www.fundacionareces.es/fundacionareces/es/sobre-nosotros/">Ampliar información</a>
+			
+	</h2>
+
+
+			<ul class="n2" role="menu">
+				
+							<li class="pmsin primero" role="menuitem">
+								
+			<a class="link-menu"  href="https://www.fundacionareces.es/fundacionareces/es/sobre-nosotros/vision/">Visión</a>
+		
+							</li>
+						
+							<li class="pmsin" role="menuitem">
+								
+			<a class="link-menu"  href="http://www.fundacionareces.es/fundacionareces/es/sobre-nosotros/mision/">Misión</a>
+		
+							</li>
+						
+							<li class="pmsin" role="menuitem">
+								
+			<a class="link-menu"  href="https://www.fundacionareces.es/fundacionareces/es/sobre-nosotros/organos-de-gobierno/">Órganos de gobierno</a>
+		
+							</li>
+						
+							<li class="pmsin" role="menuitem">
+								
+		<a class="link-menu" rel="external" href="https://www.elcorteingles.es/informacioncorporativa/es/gobierno-corporativo/etica-y-cumplimiento/">Ética y cumplimiento</a>
+	
+							</li>
+						
+							<li class="pmsin" role="menuitem">
+								
+			<a class="link-menu"  href="https://www.fundacionareces.es/fundacionareces/es/sobre-nosotros/memoria/">Memoria</a>
+		
+							</li>
+						
+							<li class="pmsin" role="menuitem">
+								
+			<a class="link-menu"  href="https://www.fundacionareces.es/fundacionareces/es/sobre-nosotros/informacion-economica/">Información económica</a>
+		
+							</li>
+						
+							<li class="pmsin" role="menuitem">
+								
+			<a class="link-menu"  href="http://www.fundacionareces.es/fundacionareces/es/sobre-nosotros/la-fundacion-en-cifras/">La Fundación en Cifras en 2024</a>
+		
+							</li>
+						
+							<li class="pmsin" role="menuitem">
+								
+			<a class="link-menu"  href="https://www.fundacionareces.es/fundacionareces/es/sobre-nosotros/historia/">Historia</a>
+		
+							</li>
+						
+			</ul>
+		
+						</li>
+					
+						<li class="pmcon" role="menuitem">
+							
+			<a class="link-menu"  href="https://www.fundacionareces.es/fundacionareces/es/comunicacion/">Comunicación</a>
+		
+	<h2 class="cab_submenu">
+		<strong>Comunicación</strong>
+	
+		
+				<a  href="https://www.fundacionareces.es/fundacionareces/es/comunicacion/">Ampliar información</a>
+			
+	</h2>
+
+
+			<ul class="n2" role="menu">
+				
+							<li class="pmsin primero" role="menuitem">
+								
+			<a class="link-menu"  href="https://www.fundacionareces.es/fundacionareces/es/comunicacion/noticias/">Noticias</a>
+		
+							</li>
+						
+							<li class="pmsin" role="menuitem">
+								
+			<a class="link-menu"  href="https://www.fundacionareces.es/fundacionareces/es/comunicacion/mediateca/">Canal FRA</a>
+		
+							</li>
+						
+							<li class="pmsin" role="menuitem">
+								
+			<a class="link-menu"  href="https://www.fundacionareces.es/fundacionareces/es/comunicacion/identidad-corporativa/">Identidad corporativa</a>
+		
+							</li>
+						
+							<li class="pmsin" role="menuitem">
+								
+			<a class="link-menu"  href="https://www.fundacionareces.es/fundacionareces/es/comunicacion/podcast/">Podcast</a>
+		
+							</li>
+						
+							<li class="pmsin ultimo" role="menuitem">
+								
+			<a class="link-menu"  href="https://www.fundacionareces.es/fundacionareces/es/comunicacion/boletin-cientifico/">Boletín científico</a>
+		
+							</li>
+						
+			</ul>
+		
+						</li>
+					
+						<li class="pmcon ultimo" role="menuitem">
+							
+			<a class="link-menu"  href="https://www.fundacionareces.es/fundacionareces/es/publicaciones/">Publicaciones</a>
+		
+	<h2 class="cab_submenu">
+		<strong>Publicaciones</strong>
+	
+		
+				<a  href="https://www.fundacionareces.es/fundacionareces/es/publicaciones/">Ampliar información</a>
+			
+	</h2>
+
+
+			<ul class="n2" role="menu">
+				
+							<li class="pmsin primero" role="menuitem">
+								
+			<a class="link-menu"  href="https://www.fundacionareces.es/fundacionareces/es/publicaciones/libros/">Libros</a>
+		
+							</li>
+						
+							<li class="pmsin" role="menuitem">
+								
+			<a class="link-menu"  href="https://www.fundacionareces.es/fundacionareces/es/publicaciones/revista-fra/">Revista FRA</a>
+		
+							</li>
+						
+							<li class="pmsin" role="menuitem">
+								
+			<a class="link-menu"  href="https://www.fundacionareces.es/fundacionareces/es/publicaciones/monografias-fra/">Monografías FRA</a>
+		
+							</li>
+						
+							<li class="pmsin" role="menuitem">
+								
+			<a class="link-menu"  href="https://www.fundacionareces.es/fundacionareces/es/publicaciones/monografias-nature/">Monografías Nature</a>
+		
+							</li>
+						
+							<li class="pmsin" role="menuitem">
+								
+			<a class="link-menu"  href="https://www.fundacionareces.es/fundacionareces/es/publicaciones/monografias-sobre-educacion/">Monografías sobre educación</a>
+		
+							</li>
+						
+							<li class="pmsin" role="menuitem">
+								
+			<a class="link-menu"  href="https://www.fundacionareces.es/fundacionareces/es/publicaciones/indicadores-sobre-educacion/">Indicadores sobre educación</a>
+		
+							</li>
+						
+							<li class="pmsin" role="menuitem">
+								
+			<a class="link-menu"  href="https://www.fundacionareces.es/fundacionareces/es/publicaciones/handbooks-fra/">Handbooks FRA</a>
+		
+							</li>
+						
+							<li class="pmsin ultimo" role="menuitem">
+								
+			<a class="link-menu"  href="https://www.fundacionareces.es/fundacionareces/es/publicaciones/catalogos/">Catálogos</a>
+		
+							</li>
+						
+			</ul>
+		
+						</li>
+					
+			</ul>
+			<span role="button" class="volver-menu"><span>Volver</span></span>
+		
+<span class="mensaje">Fin del menú principal</span>
+					</nav>
+				</div>
+			</div>
+			
+			<!-- Cuerpo -->
+			<main id="main-section" aria-label='Comienza el contenido principal'>
+				
+	<div id="menu-categorias">
+		<ul>
+			
+				<li class="pmsin categoria1">
+					
+								<a  href="https://www.fundacionareces.es/fundacionareces/es/ciencias-de-la-vida-y-de-la-materia/" accesskey="1">
+									
+										<span class="svg"><svg id="ciencias-vida" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 217 217"><defs><style>.cls-1{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:3px;}.cls-2{fill:#fefefe;}</style></defs><title>CienciasDelaVida</title><circle class="cls-1" cx="108.5" cy="108.5" r="107"/><path class="cls-2" d="M286.54,232.43q0.34-9.49.68-19c0.18-5,.38-10,0.57-14.94q0.31-8.39.61-16.78c0-.49,0-1,0-1.52-2.87-.84-5.7-1.65-8.53-2.49-3.27-1-6.54-1.93-9.8-2.93a3.05,3.05,0,0,0-3.42.9c-3.31,3.81-11,2.31-12.46-3.7a7.53,7.53,0,0,1,7.15-9.52,7.14,7.14,0,0,1,7.6,6.1,2,2,0,0,0,1.49,1.77l17.22,4.94c0.26,0.08.54,0.1,0.93,0.17,0.11-1.6.24-3.17,0.31-4.74,0.22-5.35.39-10.7,0.64-16a2.4,2.4,0,0,0-1.67-2.59q-9.82-4.37-19.6-8.83a3.41,3.41,0,0,0-3.46.18q-9.41,5.69-18.86,11.31a2.75,2.75,0,0,0-1.44,2.37,5.44,5.44,0,0,1-10.69,1.22,5.28,5.28,0,0,1,1.82-5.77,5.33,5.33,0,0,1,6.19-.43,1.78,1.78,0,0,0,2-.05c6-3.65,12-7.24,18.06-10.85l0.77-.47c-0.29-.15-0.5-0.29-0.74-0.39q-10.17-4.6-20.34-9.21a2.33,2.33,0,0,0-2.23.17,18.48,18.48,0,0,1-4.19,1.75c-3.42.77-6-.69-7.92-3.48-0.63-.92-1.11-1.93-1.66-2.89v-3.86c0.25-.55.49-1.1,0.76-1.65a8.36,8.36,0,0,1,9.47-4.75,8.18,8.18,0,0,1,6.58,7.69,3,3,0,0,0,2.06,2.87c7,3.12,14,6.29,20.93,9.44L271.1,139a4.2,4.2,0,0,0,0-.75c-0.63-3-1.35-5.95-1.89-8.95a3.41,3.41,0,0,0-2.25-2.86,5.34,5.34,0,0,1-2.87-6.82,5.26,5.26,0,0,1,4.72-3.61,5.46,5.46,0,0,1,5.46,3.24,5.4,5.4,0,0,1-1.16,6.08,2.36,2.36,0,0,0-.9,2.41c0.88,4,1.72,8,2.59,12a2.06,2.06,0,0,0,1.27,1.54c4.31,1.94,8.6,3.92,12.9,5.88,0.2,0.09.43,0.15,0.69,0.23,0-.26,0-0.44.05-0.62,0.13-2.78.13-5.57,0.41-8.34a14,14,0,0,0-1.69-8.37c-2.71-5-5.35-10-8-15q-3.42-6.48-6.79-13a2.32,2.32,0,0,0-2.29-1.49A8.23,8.23,0,0,1,263,92.36a8.24,8.24,0,0,1,5.84-8.27c0.34-.1.67-0.24,1-0.36h2.94a0.76,0.76,0,0,0,.23.14A8.39,8.39,0,0,1,278.33,97a1.87,1.87,0,0,0-.07,2.22c2.23,3.75,4.44,7.52,6.67,11.28a7.27,7.27,0,0,0,.58.73c3.21-3.53,6.3-7,9.49-10.39a3.23,3.23,0,0,0,.86-3.54,6.52,6.52,0,0,1,3.71-7.88,6.79,6.79,0,0,1,8.5,2.43,6.65,6.65,0,0,1-.06,7.6,6.45,6.45,0,0,1-7,2.88,2.55,2.55,0,0,0-2.68.87c-2.21,2.54-4.53,5-6.8,7.46-1.32,1.44-2.61,2.9-3.93,4.36l6.74,11.41c0.84-1.84,1.58-3.52,2.37-5.16a3,3,0,0,0,0-2.54,8,8,0,0,1-.57-2.64,3.81,3.81,0,0,1,2.39-3.7,4.26,4.26,0,0,1,4.65.53,4.16,4.16,0,0,1,1.63,4.22,4.22,4.22,0,0,1-3.55,3.5,2.69,2.69,0,0,0-2.07,1.73c-0.28.71-.71,1.35-1,2.05a15.07,15.07,0,0,0-1.49,3.81c-0.33,2.65-.33,5.35-0.42,8a5.64,5.64,0,0,0,.3,1.34c0.19-.18.27-0.23,0.33-0.3,8.33-9.82,16.63-19.66,25-29.44a3.92,3.92,0,0,0,1-4.12A6.7,6.7,0,0,1,331,95.44a6.8,6.8,0,0,1,5.09,8,6.25,6.25,0,0,1-6.39,5.31c-0.7-.06-1.41,0-2.11,0a2.2,2.2,0,0,0-2,.93q-6.5,7.72-13,15.4L308.4,130a2,2,0,0,0,.4,0c2.94-.56,5.87-1.13,8.81-1.68a3,3,0,0,0,2.6-2.25,4,4,0,0,1,1.14-1.72,5.37,5.37,0,0,1,6-.88,5.18,5.18,0,0,1,3.18,5,5.28,5.28,0,0,1-3.34,5,4.89,4.89,0,0,1-5.85-1.18,2.73,2.73,0,0,0-2.64-.93c-3.92.78-7.82,1.61-11.74,2.37a5.64,5.64,0,0,0-3.36,1.87c-2.13,2.49-4.29,4.94-6.36,7.48a3.64,3.64,0,0,0-.71,2.08c-0.05,2,.07,4,0.11,6.05q0.23,10.41.46,20.83c0,0.31.06,0.62,0.1,1.1,6-5.19,11.93-10.25,17.8-15.32a2.39,2.39,0,0,0,.77-2.41c-0.48-2.48-1-5-1.4-7.46a2.28,2.28,0,0,0-1.57-1.92,4.36,4.36,0,0,1-2.35-5.66,4.42,4.42,0,1,1,7.35,4.61,2.85,2.85,0,0,0-.87,1.89c0.37,2.61.95,5.19,1.46,7.82a1.09,1.09,0,0,0,.3-0.11L333.44,142a2.27,2.27,0,0,0,.61-2.17,14.5,14.5,0,0,1,0-3.9,8.07,8.07,0,0,1,8-6.52,8.23,8.23,0,0,1,8.2,6.07c0.18,0.57.37,1.14,0.56,1.7v1.47c-0.16.58-.31,1.15-0.48,1.73a8.36,8.36,0,0,1-11.44,5.29,2.24,2.24,0,0,0-2.7.47c-4.65,4.07-9.34,8.08-14,12.12-2.05,1.78-4.09,3.57-6.22,5.44l0.36,0.24c4.3,3,8.58,6,12.91,8.88a2.43,2.43,0,0,0,1.61.09c0.83-.16,1.62-0.55,2.45-0.69a6.41,6.41,0,0,1,6.74,3,6.81,6.81,0,0,1-7.3,10.3c-3.39-.8-5.42-3.63-5.19-7.39a2.3,2.3,0,0,0-1.11-2.3c-4.09-2.78-8.15-5.61-12.22-8.43-1.37-.95-1.55-1-2.77.09-4.13,3.55-8.23,7.12-12.38,10.64a4.51,4.51,0,0,0-1.71,3.84c0.19,6.54.31,13.08,0.46,19.63q0.34,15.41.69,30.82H286.54Z" transform="translate(-184 -37.5)"/></svg></span>
+									
+									<span class="nombre-cat"><span><span>Ciencias de la Vida y de la Materia<span class="mensaje">(Tecla de acceso 1)</span></span></span>
+								</a>
+							
+				</li>
+			
+				<li class="pmsin categoria2">
+					
+								<a  href="https://www.fundacionareces.es/fundacionareces/es/ciencias-sociales/" accesskey="2">
+									
+										<span class="svg"><svg id="ciencias-sociales" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 217 217"><defs><style>.cls-1{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:3px;}.cls-2{fill:#fefefe;}</style></defs><title>CienciasSociales</title><circle class="cls-1" cx="108.5" cy="108.5" r="107"/><path class="cls-2" d="M253.09,485.13a23.35,23.35,0,0,1-2.1-1.55,10.24,10.24,0,0,1-3.26-6.89,12.85,12.85,0,0,1,2.06-8.37,4.5,4.5,0,0,1,7-1,10.12,10.12,0,0,1,3.54,7.49,14.82,14.82,0,0,1-.63,5.64,8.1,8.1,0,0,1-2.8,4c-0.13.1-1.14,0.62-1.27,0.72A2.48,2.48,0,0,1,253.09,485.13Z" transform="translate(-184 -345.5)"/><path class="cls-2" d="M232,448.55a17.36,17.36,0,0,1,1-2.44,9.66,9.66,0,0,1,1.84-3.13,2.47,2.47,0,0,1,4.18.69,16.44,16.44,0,0,1,1,4.17,17.51,17.51,0,0,1-2.13,10.88,6,6,0,0,1-1.46,1.74,2.2,2.2,0,0,1-3.71-1,28.94,28.94,0,0,1-1.23-3.2,17.43,17.43,0,0,1-.37-2.71A23.17,23.17,0,0,1,232,448.55Z" transform="translate(-184 -345.5)"/><path class="cls-2" d="M239.82,422.55a2.67,2.67,0,0,1,1.58,2.51,17.5,17.5,0,0,1-2.74,11.25,5.42,5.42,0,0,1-2.78,2.36,1.26,1.26,0,0,1-1.8-.55,5,5,0,0,1-1-2.88,18.73,18.73,0,0,1,2.95-10.12C236.8,424,238.7,422.13,239.82,422.55Z" transform="translate(-184 -345.5)"/><path class="cls-2" d="M365.23,446.87a3.76,3.76,0,0,1-4.28,1.68,1.73,1.73,0,0,1-1-2.66,3.64,3.64,0,0,1,4.49-.88,4.41,4.41,0,0,1,.77.94v0.92Z" transform="translate(-184 -345.5)"/><path class="cls-2" d="M279.8,475a8.7,8.7,0,0,1-3.39,6.88,5.81,5.81,0,0,1-8.84-1.63,14.59,14.59,0,0,1-1.71-6.13,9.14,9.14,0,0,1,1.95-5.2,6.34,6.34,0,0,1,10.26.28A9.24,9.24,0,0,1,279.8,475Z" transform="translate(-184 -345.5)"/><path class="cls-2" d="M243.42,474.15a15.54,15.54,0,0,1-1.65,7.55,6.37,6.37,0,0,1-.57,1,2.84,2.84,0,0,1-4.69.45,9.22,9.22,0,0,1-2.57-5.07,22.36,22.36,0,0,1-.63-6.37,43.83,43.83,0,0,1,1.19-5.29,5.5,5.5,0,0,1,.47-1.22,3.15,3.15,0,0,1,5.38-.58,11.73,11.73,0,0,1,2.35,4.93A24,24,0,0,1,243.42,474.15Z" transform="translate(-184 -345.5)"/><path class="cls-2" d="M299.67,471.4a7.55,7.55,0,0,1-7.49,7.56,6.5,6.5,0,0,1-6.47-6,7.53,7.53,0,0,1,6.46-8.21A6.45,6.45,0,0,1,299.67,471.4Z" transform="translate(-184 -345.5)"/><path class="cls-2" d="M244,456.6a12.6,12.6,0,0,1,2.47-7.69,6.91,6.91,0,0,1,2-1.67,3.45,3.45,0,0,1,4.77,1.19,23.5,23.5,0,0,1,1.51,3.6c0.09,0.22.08,0.48,0.18,0.7,0.84,1.88.23,3.68-.28,5.48a10.42,10.42,0,0,1-2.87,4.93,3.84,3.84,0,0,1-6.16-.64A10.28,10.28,0,0,1,244,456.6Z" transform="translate(-184 -345.5)"/><path class="cls-2" d="M260.55,458.25a9.49,9.49,0,0,1,2.34-6.44,5.5,5.5,0,0,1,9.51,2,9.51,9.51,0,0,1-1.65,9.21,6,6,0,0,1-4,2.39,4.86,4.86,0,0,1-5-2.38A8.12,8.12,0,0,1,260.55,458.25Z" transform="translate(-184 -345.5)"/><path class="cls-2" d="M279.26,458.15a7.28,7.28,0,0,1,4.74-6.89,5.84,5.84,0,0,1,7.87,5.65,7.62,7.62,0,0,1-4.64,7,5.64,5.64,0,0,1-8-5.12C279.25,458.55,279.26,458.35,279.26,458.15Z" transform="translate(-184 -345.5)"/><path class="cls-2" d="M305.62,468a6.66,6.66,0,0,1,5.81-6.52,7.72,7.72,0,0,1,3.31.13,5.25,5.25,0,0,1,3.5,7.37,7.58,7.58,0,0,1-9.21,3.92A5.2,5.2,0,0,1,305.62,468Z" transform="translate(-184 -345.5)"/><path class="cls-2" d="M269.72,439.3a8.78,8.78,0,0,1-4.19,7.33,4.29,4.29,0,0,1-6.68-2.62,9,9,0,0,1,3.53-9.77c2-1.28,4.16-1.22,5.64.17a5.76,5.76,0,0,1,1.64,3.7C269.69,438.46,269.69,438.81,269.72,439.3Z" transform="translate(-184 -345.5)"/><path class="cls-2" d="M254.07,433.68a12.64,12.64,0,0,1-3.57,8.71,7.07,7.07,0,0,1-1.28,1,3,3,0,0,1-4.81-1.77,11.36,11.36,0,0,1,.47-8.26,12.15,12.15,0,0,1,2.6-3.68,3.94,3.94,0,0,1,2.45-1.27,3.11,3.11,0,0,1,3.39,2A26.86,26.86,0,0,1,254.07,433.68Z" transform="translate(-184 -345.5)"/><path class="cls-2" d="M287.17,442c0,3.72-3.22,7.08-6.74,7a4.36,4.36,0,0,1-4.5-3.62,7,7,0,0,1,4.77-8.3A4.92,4.92,0,0,1,287.17,442Z" transform="translate(-184 -345.5)"/><path class="cls-2" d="M304.4,461.62c-4.87,0-7.26-3.92-5.33-7.67a6.73,6.73,0,0,1,7.58-3.36c3.65,1,5,5.11,2.58,8.27A6.45,6.45,0,0,1,304.4,461.62Z" transform="translate(-184 -345.5)"/><path class="cls-2" d="M324.2,462.77a4.67,4.67,0,0,1,.95-2.94,7,7,0,0,1,8.14-2.17,3.94,3.94,0,0,1,2.09,5.65,7,7,0,0,1-8.91,3A3.93,3.93,0,0,1,324.2,462.77Z" transform="translate(-184 -345.5)"/><path class="cls-2" d="M298.46,449.14a4.19,4.19,0,0,1-4.08-2.36,5.15,5.15,0,0,1,.57-5.52,6.3,6.3,0,0,1,6.95-2.11,4.41,4.41,0,0,1,2.52,5.83A6.34,6.34,0,0,1,298.46,449.14Z" transform="translate(-184 -345.5)"/><path class="cls-2" d="M323.16,448.65a12.75,12.75,0,0,1,2,.56,3.74,3.74,0,0,1,1.95,5.29,6.09,6.09,0,0,1-8.45,2.65,4.06,4.06,0,0,1-.87-6.21A6.65,6.65,0,0,1,323.16,448.65Z" transform="translate(-184 -345.5)"/><path class="cls-2" d="M343,460.68a3.89,3.89,0,0,1-1-.15,3.36,3.36,0,0,1-1.92-5.67,6.37,6.37,0,0,1,7.5-1.43,3.24,3.24,0,0,1,.2,5.53A13.6,13.6,0,0,1,343,460.68Z" transform="translate(-184 -345.5)"/><path class="cls-2" d="M316.7,440.56c2.38,0,3.81,1,4.15,2.62a3.26,3.26,0,0,1-.61,2.6,5.11,5.11,0,0,1-5.2,2,3.26,3.26,0,0,1-1.82-5.35A4.72,4.72,0,0,1,316.7,440.56Z" transform="translate(-184 -345.5)"/><path class="cls-2" d="M336.35,453.11a7.34,7.34,0,0,1-1-.1,2.67,2.67,0,0,1-1.46-4.59,4.88,4.88,0,0,1,5.74-.79,2.5,2.5,0,0,1,.49,3.74A4.66,4.66,0,0,1,336.35,453.11Z" transform="translate(-184 -345.5)"/><path class="cls-2" d="M351.28,452.1a2.66,2.66,0,0,1,1.4-2.18,5.25,5.25,0,0,1,3.53-.76c1.94,0.31,3.46,1.74,1.77,4.05-0.87,1.19-3.71,2.43-5.53,1.1A2.51,2.51,0,0,1,351.28,452.1Z" transform="translate(-184 -345.5)"/><path class="cls-2" d="M331.61,441.85a5.17,5.17,0,0,1,1.18.31,2,2,0,0,1,.49,3.42,3.93,3.93,0,0,1-3.9,1,2.08,2.08,0,0,1-.9-3.55A4.35,4.35,0,0,1,331.61,441.85Z" transform="translate(-184 -345.5)"/><path class="cls-2" d="M347.84,449.76c-1.6,0-2.61-.65-2.83-1.59a2.42,2.42,0,0,1,1.64-2.61,3.85,3.85,0,0,1,2.75-.17,1.89,1.89,0,0,1,.88,3.22A3.44,3.44,0,0,1,347.84,449.76Z" transform="translate(-184 -345.5)"/><path class="cls-2" d="M355.19,446.9l-0.39,0a1.55,1.55,0,0,1-1.62-1.08,1.81,1.81,0,0,1,.77-2,3.56,3.56,0,0,1,3.27-.35,1.52,1.52,0,0,1,.51,2.46A3,3,0,0,1,355.19,446.9Z" transform="translate(-184 -345.5)"/><path class="cls-2" d="M342.29,442.36c1.24-.07,2,0.34,2.06,1.31a2.17,2.17,0,0,1-.42,1.42,3.21,3.21,0,0,1-3.61.74,1.59,1.59,0,0,1-.23-2.75,11.06,11.06,0,0,1,2.13-.88Z" transform="translate(-184 -345.5)"/></svg></span>
+									
+									<span class="nombre-cat"><span><span>Ciencias Sociales<span class="mensaje">(Tecla de acceso 2)</span></span></span>
+								</a>
+							
+				</li>
+			
+				<li class="pmsin categoria3">
+					
+								<a  href="https://www.fundacionareces.es/fundacionareces/es/humanidades/" accesskey="3">
+									
+										<span class="svg"><svg id="humanidades" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 217 217"><defs><style>.cls-1{fill:none;stroke:#fff;stroke-miterlimit:10;stroke-width:3px;}.cls-2{fill:#fefefe;}</style></defs><title>Humanidades</title><circle class="cls-1" cx="108.5" cy="108.5" r="107"/><path class="cls-2" d="M278.42,722.62q0-28.52,0-57l0.89-1.65a4,4,0,0,1,2.41-2.1,4.38,4.38,0,0,1,5.55,4.14c0,6.4,0,12.8,0,19.2q0.15,20.7.38,41.4a12.39,12.39,0,0,0,1.76,6.36c1.16,1.9,2.81,1.92,3.93,0a12.8,12.8,0,0,0,1.08-2.39,33.29,33.29,0,0,0,1.24-10.69c0-17.54,0-35.08,0-52.61,0-2.73.67-4.8,3.45-5.73a0.18,0.18,0,0,0,0-.08h1.69a5.21,5.21,0,0,1,3.58,3.77v59.12c-0.13,1.33-.23,2.67-0.39,4a19.19,19.19,0,0,1-3.86,10.21c-0.92,1.13-2,2.1-3.08,3.18a12.4,12.4,0,0,1,5.16,6.63A71.6,71.6,0,0,1,304,756a44.19,44.19,0,0,1,.4,4.47v27.3a9.25,9.25,0,0,1-1,2.07,13.64,13.64,0,0,1-2,1.7h-2.64c-2.51-1.21-3.18-3.34-3.17-6q0.06-12.7,0-25.4a21.24,21.24,0,0,0-2.18-9.81c-1-2-2.56-2.08-3.82-.28a3.37,3.37,0,0,0-.5.9,29.78,29.78,0,0,0-1.59,8.55q-0.09,13.69-.18,27.38a4.33,4.33,0,0,1-3.6,4.4,4.45,4.45,0,0,1-4.8-2.66c-0.13-.3-0.3-0.59-0.44-0.88V759.72a5.52,5.52,0,0,0,.18-0.71c0.26-2.14.42-4.3,0.79-6.42,0.75-4.32,2.49-8.12,6.16-10.8a1.6,1.6,0,0,0,.23-0.28,13.57,13.57,0,0,1-5.29-6.94,29.83,29.83,0,0,1-1.71-8C278.69,725.23,278.54,723.93,278.42,722.62Z" transform="translate(-184 -615.5)"/></svg></span>
+									
+									<span class="nombre-cat"><span><span>Humanidades<span class="mensaje">(Tecla de acceso 3)</span></span></span>
+								</a>
+							
+				</li>
+			
+		</ul>
+	</div>
+
+								<div id="situacion">
+							
+					<div class="caja-situacion">
+						<div class="container">
+							
+<div id="pactivo">
+	
+					<h1 class="menu-padre">Actividades</h1>
+				
+</div>
+							<nav id="sec-nav"></nav>
+						</div>
+					</div>							
+				</div> 
+				<div id="sec-content">
+					
+					<div id="recurso">
+						
+<div id="a_agenda">
+	
+		<div class="form_tipo2">
+			<div class="container">
+				
+<div class="acordeon-device">
+	<h2 class="tit-acordeon">Buscar actividades</h2>
+	<form id="agendaForm" method="post" action="/fundacionareces/es/tratarAplicacionAgenda.do" onsubmit="return validateAgendaForm(this);"><input type="hidden" name="idAmbito" value="0" />	
+		<div class="cuerpoform">
+			<p class="five-col five-col-m">
+				<label for="texto" class="etiqueta hidden2">Texto a buscar...:</label>
+				<input type="text" name="texto" maxlength="50" size="20" value="" id="texto" class="no_alfanumerico" title="Texto a buscar..." />
+			</p>
+			<div class="fechas four-col last four-col-m last-m">
+				<p class="fecha1">
+					<label for="fechaDesdeAgenda" class="etiqueta hidden2">Desde:</label>
+					<input type="text" name="fechaDesde" maxlength="10" size="10" value="" id="fechaDesdeAgenda" title="Desde" />
+				</p>
+				<p class="fecha2">
+					<label for="fechaHastaAgenda" class="etiqueta hidden2">Hasta:</label>
+					<input type="text" name="fechaHasta" maxlength="10" size="10" value="" id="fechaHastaAgenda" title="Hasta" />
+				</p>
+			</div>
+			<p class="botones">
+				<span class="boton boton4">
+					<input type="submit" value="Buscar" class="submit" alt="Buscar según estos parámetros" />
+				</span>
+			</p>
+		</div>
+	</form>
+</div>
+
+			</div>
+		</div>
+		<div class="container">	
+			<div class="eight-col last eight-col-m last-m col-dcha">
+				
+	<div class="paginacion">
+		
+		<p class="resultados">
+			<strong>20 resultados.</strong> Mostrando del 1 al 10
+		</p>
+		
+			<nav role="navigation" aria-label="pagination">
+				<ol>
+					
+					<li class="numeropag">
+					
+						<span aria-label='página&nbsp;1' aria-current="page">1</span>
+					
+					</li>
+					
+					<li class="numeropag">
+					<a href="/fundacionareces/es/cargarAplicacionAgenda.do?paginaActual=2"><span class="hidden2">página</span><span>2</span></a>
+					</li>
+					
+						<li class="sigpag"><a href="/fundacionareces/es/cargarAplicacionAgenda.do?paginaActual=2"><img src="/fundacionareces/public/img/comun/icono/paginaSiguiente.png" alt="Siguiente página" /></a></li>
+					
+				</ol>
+			</nav>
+		
+	</div>
+
+							<div class="listado_tipo2">
+								
+	<ul class="caja-iguala-alto">
+	
+		<li class="impar itemlistado iguala-alto" >
+			
+			<div class="info-item">
+				<span class="fecha-comienzo">
+					<span>9</span> 
+					feb
+					<small>2026</small>
+				</span>
+				
+				<div class="info-evento">
+					
+							<strong class="categoria">Conferencias y coloquio</strong>
+						
+							<strong class="categoria">
+								Ciencias de la Vida y de la Materia
+							</strong>
+						
+
+					<span class="nombre">
+						<a href="/fundacionareces/es/actividades/etica-e-inteligencia-artificial.html" title="Ir a la ficha de la actividad">
+							Ética e Inteligencia Artificial
+						</a>
+					</span>
+
+					
+					<span class="fecha">
+						<a href="/fundacionareces/es/actividades/etica-e-inteligencia-artificial.html" title="Ir a la ficha de la actividad">
+							
+								<span class="lugar">Madrid, </span>
+							lunes 09 de febrero de 2026, 19:00 horas
+						</a>
+					</span>
+					
+				</div>
+			</div>
+			
+		</li>
+		
+		<li class="par itemlistado iguala-alto" >
+			
+			<div class="info-item">
+				<span class="fecha-comienzo">
+					<span>16</span> 
+					feb
+					<small>2026</small>
+				</span>
+				
+				<div class="info-evento">
+					
+							<strong class="categoria">Conferencia</strong>
+						
+							<strong class="categoria">
+								Ciencias de la Vida y de la Materia
+							</strong>
+						
+
+					<span class="nombre">
+						<a href="/fundacionareces/es/actividades/historia-de-la-cirugia-y-de-la-anestesia-en-espana.html" title="Ir a la ficha de la actividad">
+							Historia de la Cirugía y de la Anestesia en España
+						</a>
+					</span>
+
+					
+						<p class="colaboracion">
+							<a href="/fundacionareces/es/actividades/historia-de-la-cirugia-y-de-la-anestesia-en-espana.html" title="Ir a la ficha de la actividad">
+								Organizado por:  <strong>Fundación Ramón Areces, Real Academia Nacional de Medicina de España y Sociedad Española de Anestesiología y Reanimación</strong>
+							</a>
+						</p>
+					
+					<span class="fecha">
+						<a href="/fundacionareces/es/actividades/historia-de-la-cirugia-y-de-la-anestesia-en-espana.html" title="Ir a la ficha de la actividad">
+							
+								<span class="lugar">Madrid, </span>
+							lunes, 16 de febrero de 2026, 18:00 horas
+						</a>
+					</span>
+					
+				</div>
+			</div>
+			
+		</li>
+		
+		<li class="impar itemlistado iguala-alto" >
+			
+			<div class="info-item">
+				<span class="fecha-comienzo">
+					<span>19</span> 
+					feb
+					<small>2026</small>
+				</span>
+				
+				<div class="info-evento">
+					
+							<strong class="categoria">18ª edición. Ciclo de conferencias y debates en ciencias</strong>
+						
+							<strong class="categoria">
+								Ciencias de la Vida y de la Materia
+							</strong>
+						
+
+					<span class="nombre">
+						<a href="/fundacionareces/es/actividades/omicas-de-celula-unica-y-el-atlas-celular-humano-redefiniendo-la-biologia-de-precision.html" title="Ir a la ficha de la actividad">
+							Ómicas de célula única y el Atlas Celular Humano: redefiniendo la biología de precisión
+						</a>
+					</span>
+
+					
+						<p class="colaboracion">
+							<a href="/fundacionareces/es/actividades/omicas-de-celula-unica-y-el-atlas-celular-humano-redefiniendo-la-biologia-de-precision.html" title="Ir a la ficha de la actividad">
+								Organizado por:  <strong>Fundación Ramón Areces y Springer Nature</strong>
+							</a>
+						</p>
+					
+					<span class="fecha">
+						<a href="/fundacionareces/es/actividades/omicas-de-celula-unica-y-el-atlas-celular-humano-redefiniendo-la-biologia-de-precision.html" title="Ir a la ficha de la actividad">
+							
+								<span class="lugar">Madrid, </span>
+							jueves 19 de febrero de 2026, 17:30 horas
+						</a>
+					</span>
+					
+				</div>
+			</div>
+			
+		</li>
+		
+		<li class="par itemlistado iguala-alto" >
+			
+			<div class="info-item">
+				<span class="fecha-comienzo">
+					<span>23</span> 
+					feb
+					<small>2026</small>
+				</span>
+				
+				<div class="info-evento">
+					
+							<strong class="categoria">
+								Ciencias Sociales
+							</strong>
+						
+						<span class="ponente">
+							<a href="/fundacionareces/es/actividades/the-revenge-of-the-places-that-dont-matter.html" title="Ir a la ficha de la actividad">
+								
+							   		<em>Masterclasses LSE-Fundación Ramón Areces en Ciencias Sociales 2026</em>
+								
+							</a>
+						</span>
+					
+
+					<span class="nombre">
+						<a href="/fundacionareces/es/actividades/the-revenge-of-the-places-that-dont-matter.html" title="Ir a la ficha de la actividad">
+							The revenge of the places that don’t matter
+						</a>
+					</span>
+
+					
+						<p class="colaboracion">
+							<a href="/fundacionareces/es/actividades/the-revenge-of-the-places-that-dont-matter.html" title="Ir a la ficha de la actividad">
+								Organizado por:  <strong>Fundación Ramón Areces y London School of Economics and Political Science (LSE)</strong>
+							</a>
+						</p>
+					
+					<span class="fecha">
+						<a href="/fundacionareces/es/actividades/the-revenge-of-the-places-that-dont-matter.html" title="Ir a la ficha de la actividad">
+							
+								<span class="lugar">Madrid, </span>
+							23, 24 y 25 de febrero 2026
+						</a>
+					</span>
+					
+				</div>
+			</div>
+			
+		</li>
+		
+		<li class="impar itemlistado iguala-alto" >
+			
+			<div class="info-item">
+				<span class="fecha-comienzo">
+					<span>23</span> 
+					feb
+					<small>2026</small>
+				</span>
+				
+				<div class="info-evento">
+					
+							<strong class="categoria">Jornada</strong>
+						
+							<strong class="categoria">
+								Ciencias de la Vida y de la Materia
+							</strong>
+						
+
+					<span class="nombre">
+						<a href="/fundacionareces/es/actividades/uso-y-abuso-de-los-antidepresivos.html" title="Ir a la ficha de la actividad">
+							Uso y abuso de los antidepresivos
+						</a>
+					</span>
+
+					
+					<span class="fecha">
+						<a href="/fundacionareces/es/actividades/uso-y-abuso-de-los-antidepresivos.html" title="Ir a la ficha de la actividad">
+							
+								<span class="lugar">Madrid, </span>
+							lunes 23 de febrero de 2026, 19:00 horas
+						</a>
+					</span>
+					
+				</div>
+			</div>
+			
+		</li>
+		
+		<li class="par itemlistado iguala-alto" >
+			
+			<div class="info-item">
+				<span class="fecha-comienzo">
+					<span>24</span> 
+					feb
+					<small>2026</small>
+				</span>
+				
+				<div class="info-evento">
+					
+							<strong class="categoria">Conferencia</strong>
+						
+							<strong class="categoria">
+								Ciencias Sociales
+							</strong>
+						
+
+					<span class="nombre">
+						<a href="/fundacionareces/es/actividades/la-venganza-de-los-lugares-que-no-importan.html" title="Ir a la ficha de la actividad">
+							La venganza de los lugares que no importan
+						</a>
+					</span>
+
+					
+						<p class="colaboracion">
+							<a href="/fundacionareces/es/actividades/la-venganza-de-los-lugares-que-no-importan.html" title="Ir a la ficha de la actividad">
+								Organizado por:  <strong>Fundación Ramón Areces y London School of Economics (LSE)</strong>
+							</a>
+						</p>
+					
+					<span class="fecha">
+						<a href="/fundacionareces/es/actividades/la-venganza-de-los-lugares-que-no-importan.html" title="Ir a la ficha de la actividad">
+							
+								<span class="lugar">Madrid, </span>
+							martes 24 de febrero de 2026, 19:00 horas
+						</a>
+					</span>
+					
+				</div>
+			</div>
+			
+		</li>
+		
+		<li class="impar itemlistado iguala-alto" >
+			
+			<div class="info-item">
+				<span class="fecha-comienzo">
+					<span>26</span> 
+					feb
+					<small>2026</small>
+				</span>
+				
+				<div class="info-evento">
+					
+							<strong class="categoria">Diálogo</strong>
+						
+							<strong class="categoria">
+								Humanidades
+							</strong>
+						
+
+					<span class="nombre">
+						<a href="/fundacionareces/es/actividades/la-educacion-y-el-poder-de-cambiar-las-cosas.html" title="Ir a la ficha de la actividad">
+							La educación y el poder de cambiar las cosas
+						</a>
+					</span>
+
+					
+						<p class="colaboracion">
+							<a href="/fundacionareces/es/actividades/la-educacion-y-el-poder-de-cambiar-las-cosas.html" title="Ir a la ficha de la actividad">
+								Organizado por:  <strong>Fundación Amigos de la Biblioteca Nacional de España (FABNE) con la colaboración de la Fundación Ramón Areces</strong>
+							</a>
+						</p>
+					
+					<span class="fecha">
+						<a href="/fundacionareces/es/actividades/la-educacion-y-el-poder-de-cambiar-las-cosas.html" title="Ir a la ficha de la actividad">
+							
+								<span class="lugar">Madrid, </span>
+							jueves 26 de febrero de 2026, 19:00 horas
+						</a>
+					</span>
+					
+				</div>
+			</div>
+			
+		</li>
+		
+		<li class="par itemlistado iguala-alto" >
+			
+			<div class="info-item">
+				<span class="fecha-comienzo">
+					<span>4</span> 
+					mar
+					<small>2026</small>
+				</span>
+				
+				<div class="info-evento">
+					
+							<strong class="categoria">Diálogo</strong>
+						
+							<strong class="categoria">
+								Humanidades
+							</strong>
+						
+
+					<span class="nombre">
+						<a href="/fundacionareces/es/actividades/la-fama-y-la-gloria-la-infamia-y-el-olvido.html" title="Ir a la ficha de la actividad">
+							La fama y la gloria, la infamia y el olvido
+						</a>
+					</span>
+
+					
+						<p class="colaboracion">
+							<a href="/fundacionareces/es/actividades/la-fama-y-la-gloria-la-infamia-y-el-olvido.html" title="Ir a la ficha de la actividad">
+								Organizado por:  <strong>Real Colegio Libre de Eméritos y Fundación Ramón Areces</strong>
+							</a>
+						</p>
+					
+					<span class="fecha">
+						<a href="/fundacionareces/es/actividades/la-fama-y-la-gloria-la-infamia-y-el-olvido.html" title="Ir a la ficha de la actividad">
+							
+								<span class="lugar">Madrid, </span>
+							miércoles 04 de marzo de 2026, 19:00 horas
+						</a>
+					</span>
+					
+				</div>
+			</div>
+			
+		</li>
+		
+		<li class="impar itemlistado iguala-alto" >
+			
+			<div class="info-item">
+				<span class="fecha-comienzo">
+					<span>9</span> 
+					mar
+					<small>2026</small>
+				</span>
+				
+				<div class="info-evento">
+					
+							<strong class="categoria">Conferencia</strong>
+						
+							<strong class="categoria">
+								Ciencias de la Vida y de la Materia
+							</strong>
+						
+
+					<span class="nombre">
+						<a href="/fundacionareces/es/actividades/la-triada-de-eclipses-solares-de-2026-2027-y-2028-un-acontecimiento-astronomico-excepcional.html" title="Ir a la ficha de la actividad">
+							La tríada de eclipses solares de 2026, 2027 y 2028: un acontecimiento astronómico excepcional
+						</a>
+					</span>
+
+					
+						<p class="colaboracion">
+							<a href="/fundacionareces/es/actividades/la-triada-de-eclipses-solares-de-2026-2027-y-2028-un-acontecimiento-astronomico-excepcional.html" title="Ir a la ficha de la actividad">
+								Organizado por:  <strong>Fundación Ramón Areces y Centro Europeo de Astronomía Espacial (ESAC-ESA)</strong>
+							</a>
+						</p>
+					
+					<span class="fecha">
+						<a href="/fundacionareces/es/actividades/la-triada-de-eclipses-solares-de-2026-2027-y-2028-un-acontecimiento-astronomico-excepcional.html" title="Ir a la ficha de la actividad">
+							
+								<span class="lugar">Madrid, </span>
+							lunes, 9 de marzo de 2026, 19:00 horas
+						</a>
+					</span>
+					
+				</div>
+			</div>
+			
+		</li>
+		
+		<li class="par itemlistado iguala-alto" >
+			
+			<div class="info-item">
+				<span class="fecha-comienzo">
+					<span>23</span> 
+					mar
+					<small>2026</small>
+				</span>
+				
+				<div class="info-evento">
+					
+							<strong class="categoria">Conferencia</strong>
+						
+							<strong class="categoria">
+								Ciencias de la Vida y de la Materia
+							</strong>
+						
+
+					<span class="nombre">
+						<a href="/fundacionareces/es/actividades/quo-vadis-dermatologia.html" title="Ir a la ficha de la actividad">
+							¿Quo vadis, dermatología?
+						</a>
+					</span>
+
+					
+					<span class="fecha">
+						<a href="/fundacionareces/es/actividades/quo-vadis-dermatologia.html" title="Ir a la ficha de la actividad">
+							
+								<span class="lugar">Madrid, </span>
+							lunes 23 de marzo de 2026, 19:00 horas
+						</a>
+					</span>
+					
+				</div>
+			</div>
+			
+		</li>
+		
+	</ul>
+
+							</div>
+							
+	<div class="paginacion paginf">
+		
+			<nav role="navigation" aria-label="pagination inf">
+				<ol>
+					
+					<li class="numeropag">
+					
+					   <span aria-label='página&nbsp;1' aria-current="page">1</span>
+					
+					</li>
+					
+					<li class="numeropag">
+					<a href="/fundacionareces/es/cargarAplicacionAgenda.do?paginaActual=2"><span class="hidden2">página</span><span>2</span></a>
+					</li>
+					
+						<li class="sigpag"><a href="/fundacionareces/es/cargarAplicacionAgenda.do?paginaActual=2"><img src="/fundacionareces/public/img/comun/icono/paginaSiguiente.png" alt="Siguiente página" /></a></li>
+					
+				</ol>
+			</nav>
+		</div>
+	
+			</div>
+			
+			<div class="four-col four-col-m">
+				<div class="ten-col last">
+					
+					<div id="a_calendario">
+						<div class="cajacalendario">
+							
+<table summary="Calendario" class="calendario">
+	<thead>
+		<tr>
+			
+				<td>
+					<a href="/fundacionareces/es/tratarAplicacionAgenda.do?cal=1&amp;idAmbito=0&amp;fechaDesde=01/01/2026&amp;fechaHasta=31/01/2026" class="calendarioant" ><img src="/fundacionareces/public/img/comun/icono/mesAnterior.png" alt="Mes anterior" /></a> 
+				</td>
+				<td colspan="5">febrero 2026</td>
+				<td>
+					<a href="/fundacionareces/es/tratarAplicacionAgenda.do?cal=1&amp;idAmbito=0&amp;fechaDesde=01/03/2026&amp;fechaHasta=31/03/2026" class="calendariosig" ><img src="/fundacionareces/public/img/comun/icono/mesSiguiente.png" alt="Mes siguiente" /></a> 
+				</td>
+			
+		</tr>
+	</thead>
+	
+	<tbody>
+		<tr>
+			
+			
+			<th><abbr xml:lang="es" title="lunes">l</abbr></th>
+			<th><abbr xml:lang="es" title="martes">m</abbr></th>
+			<th><abbr xml:lang="es" title="miércoles">m</abbr></th>
+			<th><abbr xml:lang="es" title="jueves">j</abbr></th>
+			<th><abbr xml:lang="es" title="viernes">v</abbr></th>
+			<th><abbr xml:lang="es" title="sábado">s</abbr></th>
+			<th><abbr xml:lang="es" title="domingo">d</abbr></th>
+		</tr>
+		
+			<tr><td colspan="6" ></td>
+		
+	   	<td class=" color" >
+		   <span class="caja-td">
+			   <span>
+				   	1
+				</span>
+			</span>
+			
+			</td>
+		 	
+		   	</tr>
+			
+		   	<tr>
+		    
+	   	<td class="fechaevento" >
+		   <span class="caja-td">
+			   <span>
+				   	
+					   		<a href="/fundacionareces/es/tratarAplicacionAgenda.do?idAmbito=0&amp;fechaDesde=02/02/2026&amp;fechaHasta=02/02/2026">2</a>
+					   		<span class="mensaje"></span>
+					   	
+				</span>
+			</span>
+			
+		   		<div class="info-calendario">
+			   		
+						<p>
+							Simposio Internacional:
+								<a href="/fundacionareces/es/actividades/sueno-envejecimiento-y-neurodegeneracion.html">Sueño, Envejecimiento y Neurodegeneración</a>
+							
+						</p>
+			    	
+		    	</div>
+		    
+			</td>
+		 	
+	   	<td class="" >
+		   <span class="caja-td">
+			   <span>
+				   	3
+				</span>
+			</span>
+			
+			</td>
+		 	
+	   	<td class="" >
+		   <span class="caja-td">
+			   <span>
+				   	4
+				</span>
+			</span>
+			
+			</td>
+		 	
+	   	<td class="fechaHoy" >
+		   <span class="caja-td">
+			   <span>
+				   	5
+				</span>
+			</span>
+			
+			</td>
+		 	
+	   	<td class="" >
+		   <span class="caja-td">
+			   <span>
+				   	6
+				</span>
+			</span>
+			
+			</td>
+		 	
+	   	<td class="" >
+		   <span class="caja-td">
+			   <span>
+				   	7
+				</span>
+			</span>
+			
+			</td>
+		 	
+	   	<td class=" color" >
+		   <span class="caja-td">
+			   <span>
+				   	8
+				</span>
+			</span>
+			
+			</td>
+		 	
+		   	</tr>
+			
+		   	<tr>
+		    
+	   	<td class="fechaevento" >
+		   <span class="caja-td">
+			   <span>
+				   	
+					   		<a href="/fundacionareces/es/tratarAplicacionAgenda.do?idAmbito=0&amp;fechaDesde=09/02/2026&amp;fechaHasta=09/02/2026">9</a>
+					   		<span class="mensaje"></span>
+					   	
+				</span>
+			</span>
+			
+		   		<div class="info-calendario">
+			   		
+						<p>
+							Conferencias y coloquio:
+								<a href="/fundacionareces/es/actividades/etica-e-inteligencia-artificial.html">Ética e Inteligencia Artificial</a>
+							
+						</p>
+			    	
+		    	</div>
+		    
+			</td>
+		 	
+	   	<td class="" >
+		   <span class="caja-td">
+			   <span>
+				   	10
+				</span>
+			</span>
+			
+			</td>
+		 	
+	   	<td class="" >
+		   <span class="caja-td">
+			   <span>
+				   	11
+				</span>
+			</span>
+			
+			</td>
+		 	
+	   	<td class="" >
+		   <span class="caja-td">
+			   <span>
+				   	12
+				</span>
+			</span>
+			
+			</td>
+		 	
+	   	<td class="" >
+		   <span class="caja-td">
+			   <span>
+				   	13
+				</span>
+			</span>
+			
+			</td>
+		 	
+	   	<td class="" >
+		   <span class="caja-td">
+			   <span>
+				   	14
+				</span>
+			</span>
+			
+			</td>
+		 	
+	   	<td class=" color" >
+		   <span class="caja-td">
+			   <span>
+				   	15
+				</span>
+			</span>
+			
+			</td>
+		 	
+		   	</tr>
+			
+		   	<tr>
+		    
+	   	<td class="fechaevento" >
+		   <span class="caja-td">
+			   <span>
+				   	
+					   		<a href="/fundacionareces/es/tratarAplicacionAgenda.do?idAmbito=0&amp;fechaDesde=16/02/2026&amp;fechaHasta=16/02/2026">16</a>
+					   		<span class="mensaje"></span>
+					   	
+				</span>
+			</span>
+			
+		   		<div class="info-calendario">
+			   		
+						<p>
+							Conferencia:
+								<a href="/fundacionareces/es/actividades/historia-de-la-cirugia-y-de-la-anestesia-en-espana.html">Historia de la Cirugía y de la Anestesia en España</a>
+							
+						</p>
+			    	
+		    	</div>
+		    
+			</td>
+		 	
+	   	<td class="" >
+		   <span class="caja-td">
+			   <span>
+				   	17
+				</span>
+			</span>
+			
+			</td>
+		 	
+	   	<td class="" >
+		   <span class="caja-td">
+			   <span>
+				   	18
+				</span>
+			</span>
+			
+			</td>
+		 	
+	   	<td class="fechaevento" >
+		   <span class="caja-td">
+			   <span>
+				   	
+					   		<a href="/fundacionareces/es/tratarAplicacionAgenda.do?idAmbito=0&amp;fechaDesde=19/02/2026&amp;fechaHasta=19/02/2026">19</a>
+					   		<span class="mensaje"></span>
+					   	
+				</span>
+			</span>
+			
+		   		<div class="info-calendario">
+			   		
+						<p>
+							18ª edición. Ciclo de conferencias y debates en ciencias:
+								<a href="/fundacionareces/es/actividades/omicas-de-celula-unica-y-el-atlas-celular-humano-redefiniendo-la-biologia-de-precision.html">Ómicas de célula única y el Atlas Celular Humano: redefiniendo la biología de precisión</a>
+							
+						</p>
+			    	
+		    	</div>
+		    
+			</td>
+		 	
+	   	<td class="" >
+		   <span class="caja-td">
+			   <span>
+				   	20
+				</span>
+			</span>
+			
+			</td>
+		 	
+	   	<td class="" >
+		   <span class="caja-td">
+			   <span>
+				   	21
+				</span>
+			</span>
+			
+			</td>
+		 	
+	   	<td class=" color" >
+		   <span class="caja-td">
+			   <span>
+				   	22
+				</span>
+			</span>
+			
+			</td>
+		 	
+		   	</tr>
+			
+		   	<tr>
+		    
+	   	<td class="fechaevento" >
+		   <span class="caja-td">
+			   <span>
+				   	
+					   		<a href="/fundacionareces/es/tratarAplicacionAgenda.do?idAmbito=0&amp;fechaDesde=23/02/2026&amp;fechaHasta=23/02/2026">23</a>
+					   		<span class="mensaje"></span>
+					   	
+				</span>
+			</span>
+			
+		   		<div class="info-calendario">
+			   		
+						<p>
+							<a href="/fundacionareces/es/actividades/the-revenge-of-the-places-that-dont-matter.html">The revenge of the places that don’t matter</a>
+							
+						</p>
+			    	
+						<p>
+							Jornada:
+								<a href="/fundacionareces/es/actividades/uso-y-abuso-de-los-antidepresivos.html">Uso y abuso de los antidepresivos</a>
+							
+						</p>
+			    	
+		    	</div>
+		    
+			</td>
+		 	
+	   	<td class="fechaevento" >
+		   <span class="caja-td">
+			   <span>
+				   	
+					   		<a href="/fundacionareces/es/tratarAplicacionAgenda.do?idAmbito=0&amp;fechaDesde=24/02/2026&amp;fechaHasta=24/02/2026">24</a>
+					   		<span class="mensaje"></span>
+					   	
+				</span>
+			</span>
+			
+		   		<div class="info-calendario">
+			   		
+						<p>
+							<a href="/fundacionareces/es/actividades/the-revenge-of-the-places-that-dont-matter.html">The revenge of the places that don’t matter</a>
+							
+						</p>
+			    	
+						<p>
+							Conferencia:
+								<a href="/fundacionareces/es/actividades/la-venganza-de-los-lugares-que-no-importan.html">La venganza de los lugares que no importan</a>
+							
+						</p>
+			    	
+		    	</div>
+		    
+			</td>
+		 	
+	   	<td class="fechaevento" >
+		   <span class="caja-td">
+			   <span>
+				   	
+					   		<a href="/fundacionareces/es/tratarAplicacionAgenda.do?idAmbito=0&amp;fechaDesde=25/02/2026&amp;fechaHasta=25/02/2026">25</a>
+					   		<span class="mensaje"></span>
+					   	
+				</span>
+			</span>
+			
+		   		<div class="info-calendario">
+			   		
+						<p>
+							<a href="/fundacionareces/es/actividades/the-revenge-of-the-places-that-dont-matter.html">The revenge of the places that don’t matter</a>
+							
+						</p>
+			    	
+		    	</div>
+		    
+			</td>
+		 	
+	   	<td class="fechaevento" >
+		   <span class="caja-td">
+			   <span>
+				   	
+					   		<a href="/fundacionareces/es/tratarAplicacionAgenda.do?idAmbito=0&amp;fechaDesde=26/02/2026&amp;fechaHasta=26/02/2026">26</a>
+					   		<span class="mensaje"></span>
+					   	
+				</span>
+			</span>
+			
+		   		<div class="info-calendario">
+			   		
+						<p>
+							Diálogo:
+								<a href="/fundacionareces/es/actividades/la-educacion-y-el-poder-de-cambiar-las-cosas.html">La educación y el poder de cambiar las cosas</a>
+							
+						</p>
+			    	
+		    	</div>
+		    
+			</td>
+		 	
+	   	<td class="" >
+		   <span class="caja-td">
+			   <span>
+				   	27
+				</span>
+			</span>
+			
+			</td>
+		 	
+	   	<td class="" >
+		   <span class="caja-td">
+			   <span>
+				   	28
+				</span>
+			</span>
+			
+			</td>
+		 	
+			<td colspan="1" ></td></tr>
+		
+	</tbody>
+</table>
+
+						</div>
+					</div>
+				</div>
+			</div>
+				
+		</div>
+	
+</div>
+					</div> 
+				</div>
+			</main>
+			<!-- Pie -->
+			<footer id="main-footer">
+				
+
+<div class="grupo-atajo">
+	<div class="container-fluid">
+		
+		<div class="compartir">
+			<div>
+				<button id="btn-compartir" type="button" aria-label='Compartir en' aria-controls="lista-compartir">
+        			<span class="hidden-phone">Compartir</span>
+        		</button>
+				
+				<ul id="lista-compartir" role="list">
+					<li class="item-compartir facebook">
+						
+						<a href="https://www.facebook.com/sharer/sharer.php?title=Actividades&u=https%3a%2f%2fwww.fundacionareces.es%2ffundacionareces%2fes%2factividades%2f" class="facebook-share" aria-label='Compartir en Facebook'><span class="share">Facebook</span></a>
+					</li>
+					<li class="item-compartir twitter">
+						
+						<a href="https://twitter.com/intent/tweet?text=Actividades&url=https%3a%2f%2fwww.fundacionareces.es%2ffundacionareces%2fes%2factividades%2f" class="twitter-share" aria-label='Compartir en Twitter'><span class="share">Twitter</span></a>
+					</li>
+					<li class="item-compartir linkedin">
+						
+						<a href="https://www.linkedin.com/shareArticle?mini=true&title=Actividades&url=https%3a%2f%2fwww.fundacionareces.es%2ffundacionareces%2fes%2factividades%2f" class="linkedin-share" aria-label='Compartir en Linkedin'><span class="share" >LinkedIn</span></a>
+					</li>
+					<li class="item-compartir mail"><a href="mailto:?subject=Actividades&body=https://www.fundacionareces.es/fundacionareces/es/actividades/" aria-label='Compartir por email'><span class="share">Compartir por email</span></a></li>
+					
+					<li class="item-compartir whatsapp visible-phone" id="whatsapp"><a rel="nofollow" href="whatsapp://send?text=Fundaci%C3%B3n%20Ram%C3%B3n%20Areces%20-%20Te%20recomiendo%20que%20visites%20esta%20p%C3%A1gina%3A%20https%3A%2F%2Fwww.fundacionareces.es%2Ffundacionareces%2Fes%2Factividades%2F" data-action="share/whatsapp/share" aria-label='Compartir en Whatsapp'></a></li>
+				</ul>
+			</div>
+		</div>
+		<div id="atajo">
+			<ul>
+				<li id="atajoArriba"><a href="#recurso">Subir</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+
+				<div class="container-fluid">
+					
+<div class="six-col">
+	<p class="copy">2026&nbsp;Fundación Ramón Areces. Todos los derechos reservados.</p>
+	<p class="direccion">Calle Vitruvio, 5, 28006 Madrid 915 15 89 80</p>
+</div>
+<div class="six-col last">
+	
+	<ul class="menu-pie">
+		
+			<li>
+				
+							<a  href="https://www.fundacionareces.es/fundacionareces/es/mapa-web/" accesskey="">Mapa web<span class="mensaje">(Tecla de acceso )</span></a>
+						
+			</li>
+		
+			<li>
+				
+							<a  href="https://www.fundacionareces.es/fundacionareces/es/accesibilidad/" accesskey="">Accesibilidad<span class="mensaje">(Tecla de acceso )</span></a>
+						
+			</li>
+		
+			<li>
+				
+							<a  href="https://www.fundacionareces.es/fundacionareces/es/cookies/" accesskey="">Cookies<span class="mensaje">(Tecla de acceso )</span></a>
+						
+			</li>
+		
+			<li>
+				
+							<a  href="https://www.fundacionareces.es/fundacionareces/es/aviso-legal/" accesskey="8">Aviso legal<span class="mensaje">(Tecla de acceso 8)</span></a>
+						
+			</li>
+		
+			<li>
+				
+							<a  href="https://www.fundacionareces.es/fundacionareces/es/contacto/" accesskey="">Contacto<span class="mensaje">(Tecla de acceso )</span></a>
+						
+			</li>
+		
+			<li>
+				
+							<a  href="https://www.fundacionareces.es/fundacionareces/es/preguntas-frecuentes/" accesskey="">Preguntas frecuentes<span class="mensaje">(Tecla de acceso )</span></a>
+						
+			</li>
+		
+	</ul>
+
+</div>
+
+				</div>
+			</footer>
+		</div>
+		
+	<script type="text/javascript">
+	//<![CDATA[ 
+	var texto={titleVentanaNueva:"Se abre en ventana nueva",altPopupImagen:"(Pulse en la imagen para ampliar)",altPopupCalendario:"Calendario ",titleAlerta:"Advertencia",botonAlertaAceptar:"Aceptar",botonAlertaCancelar:"Cancelar",imprimir:"Imprimir",volver:"Volver",seleccione:"Seleccione",limpiar:"Limpiar",nuevoCaptcha:"Clic sobre la imagen para generar una nueva palabra",noSugerenciasBuscadorGeneral:"No hay sugerencias de búsqueda",validacionBuscadorGeneral:"<span>Texto a buscar...</span> es obligatorio.",areaPrivada:"Acceso / Registro",areaPrivadaActivo:"Área Personal ##0##"};var politicaCookies={mensaje:'Utilizamos cookies propias y de terceros para mejorar nuestros servicios. Si continúa navegando, consideramos que acepta su uso. Puede obtener más información, o bien conocer cómo cambiar la configuración, en nuestra <a href="{{privacyPolicyUri}}">{{privacyPolicyText}}</a>.',titulo:"Política de cookies",boton:"Cerrar",enlace:"cookies/",bloqueoMultimedia:"Elemento bloqueado por la configuración de las cookies. Debe aceptar las cookies de tipo <em>Multimedia</em> para ver este elemento.",bloqueoEmbebido:"Elemento bloqueado por la configuración de las cookies. Debe aceptar las cookies de tipo <em>Contenido embebido</em> para ver este elemento.",domain:window.location.hostname};var codigoIdioma="es";var contextoPortal="/fundacionareces";var portalUri="http://www.fundacionareces.es/fundacionareces";var portalUriSSL="https://www.fundacionareces.es/fundacionareces";var csrfToken="";var estadisticas=true;
+	//]]> 
+	</script>
+
+<script type="text/javascript" src="/fundacionareces/public/js/ui/jquery-ui.js" charset="utf-8"></script>
+<script type="text/javascript" src="/fundacionareces/public/js/ui/jquery-ui-timepicker-addon.js" charset="utf-8"></script>
+<script type="text/javascript" src="/fundacionareces/public/js/ui/jquery-ui-i18n.all.js" charset="utf-8"></script>
+
+<script type="text/javascript" src="/fundacionareces/public/plugin/jquerybrowser/js/jquery.browser.min.js" charset="utf-8"></script>
+
+<script type="text/javascript" src="/fundacionareces/public/plugin/alert/js/jquery.alerts.min.js" charset="utf-8"></script>
+
+<script type="text/javascript" src="/fundacionareces/public/plugin/center/jquery.center.min.js" charset="utf-8"></script>
+
+<script type="text/javascript" src="/fundacionareces/public/plugin/colorbox/js/jquery.colorbox.min.js" charset="utf-8"></script>
+
+<script type="text/javascript" src="/fundacionareces/public/plugin/oembed/js/jquery.oembed.js" charset="utf-8"></script>
+
+<script type="text/javascript" src="/fundacionareces/public/plugin/smartresize/smartresize.js" charset="utf-8"></script>
+
+<script type="text/javascript" src="/fundacionareces/public/plugin/owlCarousel/js/owl.carousel.min.js" charset="utf-8"></script>
+
+<script type="text/javascript" src="/fundacionareces/public/plugin/easyResponsiveTabs/js/easyResponsiveTabs.js" charset="utf-8"></script>
+
+<script type="text/javascript" src="/fundacionareces/public/plugin/canvasDeco/js/canvasDeco.js" charset="utf-8"></script>
+<!--[if gte IE 8]><!-->
+<script type="text/javascript" src="/fundacionareces/public/plugin/highlight/highlight.pack.js" charset="utf-8"></script>
+<!--<![endif]-->
+ 
+				<script type="text/javascript" src="/fundacionareces/public/media/mediaelementjs/mediaelement-and-player.min.js" charset="utf-8"></script>
+				<script type="text/javascript" src="/fundacionareces/public/media/mediaelementjs/google-analytics/google-analytics.min.js" charset="utf-8"></script>
+				
+				
+					<script type="text/javascript" src="/fundacionareces/public/media/mediaelementjs/lang/es.js" charset="utf-8"></script>
+				
+<script type="text/javascript" src="/fundacionareces/public/js/portal/alerta.js" charset="utf-8"></script>
+<script type="text/javascript" src="/fundacionareces/public/js/portal/util.js" charset="utf-8"></script>
+<script type="text/javascript" src="/fundacionareces/public/js/portal/fichero.js" charset="utf-8"></script>
+<script type="text/javascript" src="/fundacionareces/public/js/portal/portal.js" charset="utf-8"></script>
+<script type="text/javascript" src="/fundacionareces/public/js/portal/apariencia.js" charset="utf-8"></script>
+
+
+<script type="text/javascript" src="/fundacionareces/public/js/validacion.js" charset="utf-8"></script>
+<script type="text/javascript"> 
+//<![CDATA[
+
+    var bCancel = false; 
+
+    function validateBuscadorGeneralForm(form) { 
+        if (bCancel) { 
+            return true; 
+        } else { 
+            var formValidationResult; 
+            formValidationResult = validateRequired(form) && validateMinLength(form) && validateFilterXSS(form) && validateMask(form) && validateMaxLength(form); 
+            return (formValidationResult); 
+        } 
+    } 
+
+    function buscadorGeneralForm_required () { 
+     this.a0 = new Array("textoBusqueda", "<span>Texto a buscar...</span> es obligatorio.", new Function ("varName", "this.minlength='3';  return this[varName];"));
+    } 
+
+    function buscadorGeneralForm_minlength () { 
+     this.a0 = new Array("textoBusqueda", "<span>Texto a buscar...</span> no puede ser menor de 3 caracteres.", new Function ("varName", "this.minlength='3';  return this[varName];"));
+    } 
+
+    function buscadorGeneralForm_filterXSS () { 
+     this.a0 = new Array("textoBusqueda", "Texto a buscar... contiene caracteres no válidos.", new Function ("varName", "this.minlength='3';  return this[varName];"));
+    } 
+
+    function buscadorGeneralForm_mask () { 
+     this.a0 = new Array("tiposBusqueda", "<span>Tipos de búsqueda</span> no es válido.", new Function ("varName", "this.mask=/^[A-Z\\|]+$/;  return this[varName];"));
+     this.a1 = new Array("tipoActivo", "<span>Tipo activo</span> no es válido.", new Function ("varName", "this.maxlength='2'; this.mask=/^[A-Z]+$/;  return this[varName];"));
+    } 
+
+    function buscadorGeneralForm_maxlength () { 
+     this.a0 = new Array("tipoActivo", "<span>Tipo activo</span> no puede ser mayor de 2 caracteres.", new Function ("varName", "this.maxlength='2'; this.mask=/^[A-Z]+$/;  return this[varName];"));
+    } 
+
+
+//]]>
+</script>
+
+
+<script type="text/javascript" src="/fundacionareces/public/js/comun/calendario/calendario.js" charset="utf-8"></script>
+
+<script type="text/javascript">
+//<![CDATA[
+	$(document).ready(function() {
+		calendario.inicializar('#fechaDesde','desde','#fechaHasta', null, null, 'no');
+		calendario.inicializar('#fechaHasta','hasta','#fechaDesde', null, null, 'no');
+	});
+//]]>
+</script>
+
+<script type="text/javascript" src="/fundacionareces/public/js/aplicacion/agenda/agenda.js" charset="utf-8"></script>
+	<script type="text/javascript" charset="UTF-8">
+		// <![CDATA[
+		$(document).ready(function(){var c=new Date();var a=c.getFullYear();var b=1990;var d=new Date();d.setFullYear(a,11,31);var e=new Date();e.setFullYear(b,0,1);$("#fechaDesdeAgenda").datepicker("destroy");$("#fechaHastaAgenda").datepicker("destroy");$.datepicker.setDefaults($.extend({yearRange:b+":"+a,changeMonth:true,changeYear:true,showMonthAfterYear:false,duration:"fast",showOn:"button",buttonBefore:true,buttonText:texto.altPopupCalendario,buttonImage:contextoPortal+"/public/img/comun/icono/calendario.png",buttonImageOnly:false,gotoCurrent:true,hideIfNoPrevNext:true,changeMonth:true,changeYear:true,mandatory:false,showStatus:false,closeAtTop:false,beforeShow:function(f){if(jQuery.browser.msie){$(".ui-datepicker-cover").css("filter","mask()")}}},$.datepicker.regional[codigoIdioma]));calendario.inicializar("#fechaDesdeAgenda","desde","#fechaHastaAgenda",e,d,"no");calendario.inicializar("#fechaHastaAgenda","hasta","#fechaDesdeAgenda",e,d,"no")});
+		// ]]>
+	</script>
+<script type="text/javascript"> 
+//<![CDATA[
+
+    var bCancel = false; 
+
+    function validateAgendaForm(form) { 
+        if (bCancel) { 
+            return true; 
+        } else { 
+            var formValidationResult; 
+            formValidationResult = validateMask(form); 
+            return (formValidationResult == 1); 
+        } 
+    } 
+
+    function agendaForm_mask () { 
+     this.a0 = new Array("fechaDesde", "<span>Desde</span> no es válido.", new Function ("varName", "this.mask=/^(0[1-9]|[12][0-9]|3[01])[/](0[1-9]|1[012])[/](19|20|21)\\d{2}$/;  return this[varName];"));
+     this.a1 = new Array("fechaHasta", "<span>Hasta</span> no es válido.", new Function ("varName", "this.mask=/^(0[1-9]|[12][0-9]|3[01])[/](0[1-9]|1[012])[/](19|20|21)\\d{2}$/;  return this[varName];"));
+    } 
+
+
+//]]>
+</script>
+
+
+<script type="text/javascript">
+	$(document).ready(function(){portal.inicializar()});$(window).load(function(){apariencia.inicializar()});
+</script>
+
+	</body>
+</html>
