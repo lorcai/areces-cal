@@ -5,7 +5,7 @@ BEGIN:VEVENT
 SUMMARY:Ética e Inteligencia Artificial
 DTSTART;VALUE=DATE:20260209
 DTEND;VALUE=DATE:20260210
-DTSTAMP:20260205T225834Z
+DTSTAMP:20260206T095005Z
 UID:26335dde3e76fb3926c9e859a13cec3129e44f902e295a4cda82717ec1085b10@arece
  s
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/etica-e-
@@ -15,7 +15,7 @@ BEGIN:VEVENT
 SUMMARY:Historia de la Cirugía y de la Anestesia en España
 DTSTART;VALUE=DATE:20260216
 DTEND;VALUE=DATE:20260217
-DTSTAMP:20260205T225834Z
+DTSTAMP:20260206T095005Z
 UID:f1e197401b50ae5dac27f6891585dca7f462773644f37cb89618ac04213d9492@arece
  s
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/historia
@@ -26,7 +26,7 @@ SUMMARY:Ómicas de célula única y el Atlas Celular Humano: redefiniendo
  la biología de precisión
 DTSTART;VALUE=DATE:20260219
 DTEND;VALUE=DATE:20260220
-DTSTAMP:20260205T225834Z
+DTSTAMP:20260206T095005Z
 UID:f844d5aa67fa7c0db98d9d21c280596898a32756e4e907f12751da34bee9e7e3@arece
  s
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/omicas-d
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 SUMMARY:The revenge of the places that don’t matter
 DTSTART;VALUE=DATE:20260223
 DTEND;VALUE=DATE:20260224
-DTSTAMP:20260205T225834Z
+DTSTAMP:20260206T095005Z
 UID:dea16b604f4aca7400186698c8b9eb93eada336c68cc8bdaf433266b3b6e992f@arece
  s
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/the-reve
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:Uso y abuso de los antidepresivos
 DTSTART;VALUE=DATE:20260223
 DTEND;VALUE=DATE:20260224
-DTSTAMP:20260205T225834Z
+DTSTAMP:20260206T095005Z
 UID:8887d42a04b746cfaf829ab1cea77d385a5a6f706c1b5e40c507d4150b827897@arece
  s
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/uso-y-ab
@@ -57,7 +57,7 @@ BEGIN:VEVENT
 SUMMARY:La venganza de los lugares que no importan
 DTSTART;VALUE=DATE:20260224
 DTEND;VALUE=DATE:20260225
-DTSTAMP:20260205T225834Z
+DTSTAMP:20260206T095005Z
 UID:605b3f6b943afd1f31912379d7235a46109c8a426893744a49dd98bb8e3f740a@arece
  s
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-venga
@@ -67,17 +67,27 @@ BEGIN:VEVENT
 SUMMARY:La educación y el poder de cambiar las cosas
 DTSTART;VALUE=DATE:20260226
 DTEND;VALUE=DATE:20260227
-DTSTAMP:20260205T225834Z
+DTSTAMP:20260206T095005Z
 UID:0e98d9473266326d4986a27904ae44da9ab1fdf5c82b21defa153e99a38e33be@arece
  s
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-educa
  cion-y-el-poder-de-cambiar-las-cosas.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:La problemática del Fentanilo
+DTSTART;VALUE=DATE:20260302
+DTEND;VALUE=DATE:20260303
+DTSTAMP:20260206T095005Z
+UID:1dc5c955dca016c0d0c40829d187724fdb12e18e13ecd1ab7d6ce1a937c8af6d@arece
+ s
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-probl
+ ematica-del-fentanilo.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:La fama y la gloria\, la infamia y el olvido
 DTSTART;VALUE=DATE:20260304
 DTEND;VALUE=DATE:20260305
-DTSTAMP:20260205T225834Z
+DTSTAMP:20260206T095005Z
 UID:f255fc93b441784f7015ea5b2a209d395b0f19114dc5507026fb187d05115428@arece
  s
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-fama-
@@ -88,21 +98,11 @@ SUMMARY:La tríada de eclipses solares de 2026\, 2027 y 2028: un acontecim
  iento astronómico excepcional
 DTSTART;VALUE=DATE:20260309
 DTEND;VALUE=DATE:20260310
-DTSTAMP:20260205T225834Z
+DTSTAMP:20260206T095005Z
 UID:ccbb532174ce24cf7cb06a63419c4a3578cc1941c65f0d39f912d56f781a2429@arece
  s
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-triad
  a-de-eclipses-solares-de-2026-2027-y-2028-un-acontecimiento-astronomico-ex
  cepcional.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:¿Quo vadis\, dermatología?
-DTSTART;VALUE=DATE:20260323
-DTEND;VALUE=DATE:20260324
-DTSTAMP:20260205T225834Z
-UID:4db4917e1c1de285298110e2f94c5310b7645cf92bddfeed9cb3570fad36fc7b@arece
- s
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/quo-vadi
- s-dermatologia.html
 END:VEVENT
 END:VCALENDAR
