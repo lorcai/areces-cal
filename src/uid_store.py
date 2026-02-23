@@ -1,6 +1,7 @@
 import json
 import hashlib
 from pathlib import Path
+from datetime import datetime, timezone
 
 UID_FILE = Path("data/uid_map.json")
 
@@ -17,9 +18,15 @@ def uid_for_event(event, uid_map):
     key = event["url"]
 
     if key in uid_map:
-        return uid_map[key]
+        return uid_map[key]["uid"]
 
     uid = hashlib.sha256(key.encode()).hexdigest() + "@areces"
-    uid_map[key] = uid
+
+    # uid_map[key] = uid
+    uid_map[key] = {
+    "uid": uid,
+    # Also save date event was first created
+    "dtstamp": datetime.now(timezone.utc).isoformat()
+    }
     return uid
 

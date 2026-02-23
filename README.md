@@ -40,12 +40,12 @@ The default page usually covers all events for the current month and often the n
 
 ## Calendar update behavior
 
-The calendar is regenerated on each workflow run.
+The calendar `ics` is regenerated on each workflow run. If new events are found or old events are deleted from the site, they will also be included/deleted from the `ics` file (and consequently updated by the calendar client when polling the file).
 
-- The `DTSTAMP` field reflects the generation time and therefore changes on every update.
+- The hashed URL of the event is used as UID to provide a persistent unique identifier that remains stable across calendar regenerations.
 - Calendar clients use the event UID to determine whether an event is new or an update.
 
-There will be DTSTAMP changes for every event in every update (which will annoyingly show on the commit history) but the events will not duplicate on google calendar.
+According to [spec](https://tools.ietf.org/html/rfc2445#section-4.8.7.2), the `DTSTAMP` property represents "the date/time that the instance of the iCalendar object was created". Here it is set to the date when the event is first included in this calendar.
 
 ## Automation
 

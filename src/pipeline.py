@@ -20,6 +20,8 @@ def main():
     for raw in raw_events:
         norm = normalize_event(raw)
         norm["uid"] = uid_for_event(norm, uid_map)
+        # Get also the date the event was first created
+        norm["dtstamp"] = uid_map[norm["url"]]["dtstamp"]
         events.append(norm)
 
     ics = generate_ics(events)

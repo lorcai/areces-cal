@@ -6,10 +6,6 @@ def generate_ics(events):
     cal.add("prodid", "-//Research Events//Areces//EN")
     cal.add("version", "2.0")
 
-    # DTSTAMP represents when the calendar data was generated.
-    # It is expected (and correct) that this changes between runs.
-    now = datetime.now(timezone.utc)
-
     for e in sorted(events, key=lambda x: x["start"]):
         ve = Event()
         ve.add("uid", e["uid"])
@@ -34,10 +30,12 @@ def generate_ics(events):
         ve.add("dtstart", start_date)
         ve.add("dtend", start_date + timedelta(days=1))
 
-        ve.add("dtstamp", now)
+        # Use the saved date when the event was first created
+        ve.add("dtstamp", datetime.fromisoformat(e["dtstamp"]))
+
+        # The url field not visible on google calendar
+        # So add the url to the description too
         ve.add("url", e["url"])
-        # url field not visible on google calendar
-        # add the url to the description too
         ve.add("description", e["url"])
 
         if e["location"]:
