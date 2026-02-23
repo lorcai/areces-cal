@@ -36,6 +36,9 @@ def generate_ics(events):
 
         ve.add("dtstamp", now)
         ve.add("url", e["url"])
+        # url field not visible on google calendar
+        # add the url to the description too
+        ve.add("description", e["url"])
 
         if e["location"]:
             ve.add("location", e["location"])
