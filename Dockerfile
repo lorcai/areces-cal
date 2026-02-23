@@ -28,11 +28,11 @@ RUN pip install --no-cache-dir -r requirements.txt
 # ---- Project files ----
 COPY src/ src/
 COPY data/ data/
-COPY calendars/ calendars/
+COPY docs/ docs/
 COPY tests/ tests/
 
 # Ensure directories exist even on first run
-RUN mkdir -p data calendars
+RUN mkdir -p data docs
 
 # ---- Default command ----
 # Runs the full pipeline
