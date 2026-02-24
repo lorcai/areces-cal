@@ -14,18 +14,6 @@ URL:https://www.fundacionareces.es/fundacionareces/es/actividades/the-reve
  nge-of-the-places-that-dont-matter.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Uso y abuso de los antidepresivos
-DTSTART;VALUE=DATE:20260223
-DTEND;VALUE=DATE:20260224
-DTSTAMP:20260223T212821Z
-UID:8887d42a04b746cfaf829ab1cea77d385a5a6f706c1b5e40c507d4150b827897@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- uso-y-abuso-de-los-antidepresivos.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/uso-y-ab
- uso-de-los-antidepresivos.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:La venganza de los lugares que no importan
 DTSTART;VALUE=DATE:20260224
 DTEND;VALUE=DATE:20260225
@@ -125,5 +113,17 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  el-valor-e-impacto-economico-del-deporte-en-espana.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/el-valor
  -e-impacto-economico-del-deporte-en-espana.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Derecho y la Ética: un diálogo
+DTSTART;VALUE=DATE:20260318
+DTEND;VALUE=DATE:20260319
+DTSTAMP:20260224T095645Z
+UID:37d15fd92033181ad9b92db25b20ca9027d083cd505016333fa987ae5b764307@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ el-derecho-y-etica-un-dialogo.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/el-derec
+ ho-y-etica-un-dialogo.html
 END:VEVENT
 END:VCALENDAR
