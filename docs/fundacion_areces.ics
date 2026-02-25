@@ -14,18 +14,6 @@ URL:https://www.fundacionareces.es/fundacionareces/es/actividades/the-reve
  nge-of-the-places-that-dont-matter.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:La venganza de los lugares que no importan
-DTSTART;VALUE=DATE:20260224
-DTEND;VALUE=DATE:20260225
-DTSTAMP:20260223T212821Z
-UID:605b3f6b943afd1f31912379d7235a46109c8a426893744a49dd98bb8e3f740a@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- la-venganza-de-los-lugares-que-no-importan.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-venga
- nza-de-los-lugares-que-no-importan.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:La educación y el poder de cambiar las cosas
 DTSTART;VALUE=DATE:20260226
 DTEND;VALUE=DATE:20260227
@@ -125,5 +113,17 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  el-derecho-y-etica-un-dialogo.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/el-derec
  ho-y-etica-un-dialogo.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ciencia española de excelencia ante los grandes retos globales
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260320
+DTSTAMP:20260225T095900Z
+UID:8108db23fcf471b99198288079018573c52add9462d20baf29e7241e46a43f3f@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ ciencia-espanola-de-excelencia-ante-los-grandes-retos-globales.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/ciencia-
+ espanola-de-excelencia-ante-los-grandes-retos-globales.html
 END:VEVENT
 END:VCALENDAR
