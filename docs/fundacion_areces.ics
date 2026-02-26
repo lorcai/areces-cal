@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:The revenge of the places that don’t matter
-DTSTART;VALUE=DATE:20260223
-DTEND;VALUE=DATE:20260224
-DTSTAMP:20260223T212821Z
-UID:dea16b604f4aca7400186698c8b9eb93eada336c68cc8bdaf433266b3b6e992f@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- the-revenge-of-the-places-that-dont-matter.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/the-reve
- nge-of-the-places-that-dont-matter.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:La educación y el poder de cambiar las cosas
 DTSTART;VALUE=DATE:20260226
 DTEND;VALUE=DATE:20260227
@@ -125,5 +113,17 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  ciencia-espanola-de-excelencia-ante-los-grandes-retos-globales.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/ciencia-
  espanola-de-excelencia-ante-los-grandes-retos-globales.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:¿Quo vadis\, dermatología?
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260324
+DTSTAMP:20260223T212821Z
+UID:4db4917e1c1de285298110e2f94c5310b7645cf92bddfeed9cb3570fad36fc7b@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ quo-vadis-dermatologia.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/quo-vadi
+ s-dermatologia.html
 END:VEVENT
 END:VCALENDAR
