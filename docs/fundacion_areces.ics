@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:La educación y el poder de cambiar las cosas
-DTSTART;VALUE=DATE:20260226
-DTEND;VALUE=DATE:20260227
-DTSTAMP:20260223T212821Z
-UID:0e98d9473266326d4986a27904ae44da9ab1fdf5c82b21defa153e99a38e33be@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- la-educacion-y-el-poder-de-cambiar-las-cosas.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-educa
- cion-y-el-poder-de-cambiar-las-cosas.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:La problemática del fentanilo
 DTSTART;VALUE=DATE:20260302
 DTEND;VALUE=DATE:20260303
@@ -125,5 +113,17 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  quo-vadis-dermatologia.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/quo-vadi
  s-dermatologia.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Las sombras de la vida y la luz de las obras
+DTSTART;VALUE=DATE:20260325
+DTEND;VALUE=DATE:20260326
+DTSTAMP:20260227T094740Z
+UID:1df833091f81ddfafa6a538b5b66e2eb080c19da1e0de4011ce50b60d1dd2819@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ las-sombras-de-la-vida-y-la-luz-de-las-obras.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/las-somb
+ ras-de-la-vida-y-la-luz-de-las-obras.html
 END:VEVENT
 END:VCALENDAR
