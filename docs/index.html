@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Fundación Ramón Areces – Calendar</title>
+
+  <!-- FullCalendar (global bundle) -->
+  <script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.10/index.global.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/fullcalendar@6.1.10/locales-all.global.min.js"></script>
+
+  <!-- ICAL.js (global build, NOT module) -->
+  <script src="https://cdn.jsdelivr.net/npm/ical.js@1.4.0/build/ical.min.js"></script>
+
+  <style>
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
+      margin: 20px;
+    }
+
+    #calendar {
+      max-width: 1000px;
+      margin: 0 auto;
+    }
+
+    h1 {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+
+    .error {
+      text-align: center;
+      color: #d32f2f;
+      padding: 20px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>Fundación Ramón Areces – Eventos</h1>
+  <div id="calendar"></div>
+
+  <script>
+    async function loadICS(url) {
+      try {
+        const response = await fetch(url);
+        if (!response.ok) {
+          throw new Error(`Failed to load calendar: ${response.status}`);
+        }
+        const text = await response.text();
+
+        const jcalData = ICAL.parse(text);
+        const comp = new ICAL.Component(jcalData);
+        const vevents = comp.getAllSubcomponents('vevent');
+
+        return vevents.map(v => {
+          const event = new ICAL.Event(v);
+          return {
+            title: event.summary,
+            start: event.startDate.toJSDate(),
+            allDay: event.startDate.isDate,
+            url: v.getFirstPropertyValue('url')
+          };
+        });
+      } catch (error) {
+        console.error('Error loading ICS:', error);
+        throw error;
+      }
+    }
+
+    document.addEventListener('DOMContentLoaded', async function () {
+      const calendarEl = document.getElementById('calendar');
+      
+      try {
+        const events = await loadICS('fundacion_areces.ics');
+
+        if (events.length === 0) {
+          calendarEl.innerHTML = '<div class="error">No events found in calendar.</div>';
+          return;
+        }
+
+        const calendar = new FullCalendar.Calendar(calendarEl, {
+          initialView: 'dayGridMonth',
+          locale: navigator.language || 'es',
+          dayMaxEvents: true,
+          height: 'auto',
+          events: events,
+
+          eventDidMount: function(info) {
+            info.el.title = info.event.title;
+          },
+
+          eventClick: function(info) {
+            if (info.event.url) {
+              info.jsEvent.preventDefault();
+              window.open(info.event.url, '_blank', 'noopener');
+            }
+          }
+        });
+
+        calendar.render();
+      } catch (error) {
+        calendarEl.innerHTML = '<div class="error">Error loading calendar. Please try again later.</div>';
+      }
+    });
+  </script>
+
+</body>
+</html>
