@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:La problemática del fentanilo
-DTSTART;VALUE=DATE:20260302
-DTEND;VALUE=DATE:20260303
-DTSTAMP:20260223T212821Z
-UID:1dc5c955dca016c0d0c40829d187724fdb12e18e13ecd1ab7d6ce1a937c8af6d@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- la-problematica-del-fentanilo.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-probl
- ematica-del-fentanilo.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:El teatro en España en el siglo XXI: memoria\, identidad y nuevas
   dramaturgias
 DTSTART;VALUE=DATE:20260303
@@ -125,5 +113,17 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  las-sombras-de-la-vida-y-la-luz-de-las-obras.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/las-somb
  ras-de-la-vida-y-la-luz-de-las-obras.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La propia vida novelada: la autobiografía y el autorretrato
+DTSTART;VALUE=DATE:20260802
+DTEND;VALUE=DATE:20260803
+DTSTAMP:20260302T095515Z
+UID:6d433f6350096ed6bd332a8aee3ac635faa155b3bbeda81247cc9a1157d7087e@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ la-propia-vida-novelada-la-autobiografia-y-el-autorretrato.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-propi
+ a-vida-novelada-la-autobiografia-y-el-autorretrato.html
 END:VEVENT
 END:VCALENDAR
