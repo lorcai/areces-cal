@@ -29,7 +29,6 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY src/ src/
 COPY data/ data/
 COPY docs/ docs/
-COPY tests/ tests/
 
 # Ensure directories exist even on first run
 RUN mkdir -p data docs

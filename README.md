@@ -6,7 +6,7 @@ The repository:
 - Scrapes Fundación Ramón Areces event listings
 - Extracts upcoming events from the default public page
 - Generates a stable ICS calendar
-- Publishes it via GitHub Pages
+- Publishes the ICS calendar file and a month calendar visualization via GitHub Pages
 - Updates automatically via GitHub Actions
 
 ## Subscribe
