@@ -2,32 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:El teatro en España en el siglo XXI: memoria\, identidad y nuevas
-  dramaturgias
-DTSTART;VALUE=DATE:20260303
-DTEND;VALUE=DATE:20260304
-DTSTAMP:20260223T212821Z
-UID:9c8404c84082f4378c52ea88d9159d530af38af1f4025e7dded953d48766dd8e@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- el-teatro-en-espana-en-el-siglo-xxi-memoria-identidad-y-nuevas-dramaturgia
- s.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/el-teatr
- o-en-espana-en-el-siglo-xxi-memoria-identidad-y-nuevas-dramaturgias.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:La fama y la gloria\, la infamia y el olvido
-DTSTART;VALUE=DATE:20260304
-DTEND;VALUE=DATE:20260305
-DTSTAMP:20260223T212821Z
-UID:f255fc93b441784f7015ea5b2a209d395b0f19114dc5507026fb187d05115428@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- la-fama-y-la-gloria-la-infamia-y-el-olvido.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-fama-
- y-la-gloria-la-infamia-y-el-olvido.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:La tríada de eclipses solares de 2026\, 2027 y 2028: un acontecim
  iento astronómico excepcional
 DTSTART;VALUE=DATE:20260309
@@ -116,8 +90,8 @@ URL:https://www.fundacionareces.es/fundacionareces/es/actividades/las-somb
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La propia vida novelada: la autobiografía y el autorretrato
-DTSTART;VALUE=DATE:20260803
-DTEND;VALUE=DATE:20260804
+DTSTART;VALUE=DATE:20260408
+DTEND;VALUE=DATE:20260409
 DTSTAMP:20260302T095515Z
 UID:6d433f6350096ed6bd332a8aee3ac635faa155b3bbeda81247cc9a1157d7087e@arece
  s
@@ -125,5 +99,29 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  la-propia-vida-novelada-la-autobiografia-y-el-autorretrato.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-propi
  a-vida-novelada-la-autobiografia-y-el-autorretrato.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Las artes y las letras en la España del siglo XXI: música
+DTSTART;VALUE=DATE:20260414
+DTEND;VALUE=DATE:20260415
+DTSTAMP:20260305T123804Z
+UID:248ff3dd71b9989d350992378c85a8c9329397aa779876f6e8d74ca4f40c36be@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ las-artes-y-las-letras-en-la-espana-del-siglo-xxi-musica.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/las-arte
+ s-y-las-letras-en-la-espana-del-siglo-xxi-musica.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Siguiendo huellas radioactivas en el Ártico y Atlántico Norte
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+DTSTAMP:20260305T123804Z
+UID:023550f2bc33add3125c02d4da1045de7707e1927b700b90d70f0db5bea1e978@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ siguiendo-huellas-radioactivas-en-el-artico-y-atlantico-norte.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/siguiend
+ o-huellas-radioactivas-en-el-artico-y-atlantico-norte.html
 END:VEVENT
 END:VCALENDAR
