@@ -2,21 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:La tríada de eclipses solares de 2026\, 2027 y 2028: un acontecim
- iento astronómico excepcional
-DTSTART;VALUE=DATE:20260309
-DTEND;VALUE=DATE:20260310
-DTSTAMP:20260223T212821Z
-UID:ccbb532174ce24cf7cb06a63419c4a3578cc1941c65f0d39f912d56f781a2429@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- la-triada-de-eclipses-solares-de-2026-2027-y-2028-un-acontecimiento-astron
- omico-excepcional.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-triad
- a-de-eclipses-solares-de-2026-2027-y-2028-un-acontecimiento-astronomico-ex
- cepcional.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ejercicio físico en personas mayores: beneficios y riesgos
 DTSTART;VALUE=DATE:20260316
 DTEND;VALUE=DATE:20260317
@@ -123,5 +108,17 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  siguiendo-huellas-radioactivas-en-el-artico-y-atlantico-norte.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/siguiend
  o-huellas-radioactivas-en-el-artico-y-atlantico-norte.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La economía mundial ante la desglobalización: ayer y hoy
+DTSTART;VALUE=DATE:20260416
+DTEND;VALUE=DATE:20260417
+DTSTAMP:20260310T095041Z
+UID:3589bd18524709dadcffe649ed79b149ad0ab26b5281c0e5d31f81bacaccde75@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ la-economia-mundial-ante-la-desglobalizacion-ayer-y-hoy.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-econo
+ mia-mundial-ante-la-desglobalizacion-ayer-y-hoy.html
 END:VEVENT
 END:VCALENDAR
