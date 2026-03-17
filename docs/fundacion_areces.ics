@@ -2,28 +2,16 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:Ejercicio físico en personas mayores: beneficios y riesgos
-DTSTART;VALUE=DATE:20260316
-DTEND;VALUE=DATE:20260317
-DTSTAMP:20260223T212821Z
-UID:b1ae90f96ed3baeccc46e68a1ee61f135c2f92d78a12e10e0fdb7ed43fd13390@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- ejercicio-fisico-en-personas-mayores-beneficios-y-riesgos.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/ejercici
- o-fisico-en-personas-mayores-beneficios-y-riesgos.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:El valor e impacto económico del deporte en España
 DTSTART;VALUE=DATE:20260317
 DTEND;VALUE=DATE:20260318
-DTSTAMP:20260223T212821Z
-UID:431b1d4e09400376a838b4dc7563f3ccdce79fc9b37a0d8ba7a440b068374a33@arece
+DTSTAMP:20260317T095825Z
+UID:b921d1cfc51c009a24ac644fc22b9fa70c65b8ee0b9f0c6d34d878fdb67ee37d@arece
  s
 DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- el-valor-e-impacto-economico-del-deporte-en-espana.html
+ el-valor-impacto-economico-del-deporte-en-espana.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/el-valor
- -e-impacto-economico-del-deporte-en-espana.html
+ -impacto-economico-del-deporte-en-espana.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:El Derecho y la Ética: un diálogo
@@ -120,5 +108,20 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  la-economia-mundial-ante-la-desglobalizacion-ayer-y-hoy.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-econo
  mia-mundial-ante-la-desglobalizacion-ayer-y-hoy.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:200 años del descubrimiento del benceno: seis átomos de carbono 
+ que cambiaron el mundo
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+DTSTAMP:20260317T095825Z
+UID:87eaf8f852154f3f88ac8f6fcc31ffbc41aa5aee2a6d462f7ff81251e41a2718@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ 200-anos-del-descubrimiento-del-benceno-seis-atomos-de-carbono-que-cambiar
+ on-el-mundo.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/200-anos
+ -del-descubrimiento-del-benceno-seis-atomos-de-carbono-que-cambiaron-el-mu
+ ndo.html
 END:VEVENT
 END:VCALENDAR
