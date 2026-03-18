@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:El valor e impacto económico del deporte en España
-DTSTART;VALUE=DATE:20260317
-DTEND;VALUE=DATE:20260318
-DTSTAMP:20260317T095825Z
-UID:b921d1cfc51c009a24ac644fc22b9fa70c65b8ee0b9f0c6d34d878fdb67ee37d@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- el-valor-impacto-economico-del-deporte-en-espana.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/el-valor
- -impacto-economico-del-deporte-en-espana.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:El Derecho y la Ética: un diálogo
 DTSTART;VALUE=DATE:20260318
 DTEND;VALUE=DATE:20260319
@@ -123,5 +111,17 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/200-anos
  -del-descubrimiento-del-benceno-seis-atomos-de-carbono-que-cambiaron-el-mu
  ndo.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Conversaciones en torno a la medicina personalizada
+DTSTART;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260422
+DTSTAMP:20260318T095942Z
+UID:7656f1288478f64395229bb31440421fc4f8f9983daa98bbd6d9a6e840faa9a1@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ conversaciones-en-torno-a-la-medicina-personalizada.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/conversa
+ ciones-en-torno-a-la-medicina-personalizada.html
 END:VEVENT
 END:VCALENDAR
