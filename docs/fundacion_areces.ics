@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:El Derecho y la Ética: un diálogo
-DTSTART;VALUE=DATE:20260318
-DTEND;VALUE=DATE:20260319
-DTSTAMP:20260224T095645Z
-UID:37d15fd92033181ad9b92db25b20ca9027d083cd505016333fa987ae5b764307@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- el-derecho-y-etica-un-dialogo.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/el-derec
- ho-y-etica-un-dialogo.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ciencia española de excelencia ante los grandes retos globales
 DTSTART;VALUE=DATE:20260319
 DTEND;VALUE=DATE:20260320
@@ -123,5 +111,17 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  conversaciones-en-torno-a-la-medicina-personalizada.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/conversa
  ciones-en-torno-a-la-medicina-personalizada.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La historia clínica y el elogio fúnebre
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
+DTSTAMP:20260319T095105Z
+UID:8806a0bf2c3e26cc1dcc79987f2f557d27e745ab60033e4620b2745075a2b3d5@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ la-historia-clinica-y-el-elogio-funebre.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-histo
+ ria-clinica-y-el-elogio-funebre.html
 END:VEVENT
 END:VCALENDAR
