@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:Ciencia española de excelencia ante los grandes retos globales
-DTSTART;VALUE=DATE:20260319
-DTEND;VALUE=DATE:20260320
-DTSTAMP:20260225T095900Z
-UID:8108db23fcf471b99198288079018573c52add9462d20baf29e7241e46a43f3f@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- ciencia-espanola-de-excelencia-ante-los-grandes-retos-globales.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/ciencia-
- espanola-de-excelencia-ante-los-grandes-retos-globales.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:¿Quo vadis\, dermatología?
 DTSTART;VALUE=DATE:20260323
 DTEND;VALUE=DATE:20260324
@@ -123,5 +111,19 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  la-historia-clinica-y-el-elogio-funebre.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-histo
  ria-clinica-y-el-elogio-funebre.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The Future Ocean Economy – Blue Innovation\, Sustainability and 
+ Resiliance
+DTSTART;VALUE=DATE:20260428
+DTEND;VALUE=DATE:20260429
+DTSTAMP:20260320T094902Z
+UID:cb04c880cad3cb1cfdc9724bc7cab459cfd1540dcdb5f1ef06a8bbfe73e23693@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ the-future-ocean-economy-blue-innovation-sustainability-and-resiliance.htm
+ l
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/the-futu
+ re-ocean-economy-blue-innovation-sustainability-and-resiliance.html
 END:VEVENT
 END:VCALENDAR
