@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:Las sombras de la vida y la luz de las obras
-DTSTART;VALUE=DATE:20260325
-DTEND;VALUE=DATE:20260326
-DTSTAMP:20260227T094740Z
-UID:1df833091f81ddfafa6a538b5b66e2eb080c19da1e0de4011ce50b60d1dd2819@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- las-sombras-de-la-vida-y-la-luz-de-las-obras.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/las-somb
- ras-de-la-vida-y-la-luz-de-las-obras.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:La propia vida novelada: la autobiografía y el autorretrato
 DTSTART;VALUE=DATE:20260408
 DTEND;VALUE=DATE:20260409
@@ -101,6 +89,18 @@ URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-histo
  ria-clinica-y-el-elogio-funebre.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Innovación y avances en oncología de precisión
+DTSTART;VALUE=DATE:20260423
+DTEND;VALUE=DATE:20260424
+DTSTAMP:20260326T100326Z
+UID:a5830596c36fe569b871ce7c713419c5cc1ca4764c989e0450a4aad9b88f5a84@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ innovacion-y-avances-en-oncologia-de-precision.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/innovaci
+ on-y-avances-en-oncologia-de-precision.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Future Ocean Economy – Blue Innovation\, Sustainability and 
  Resiliance
 DTSTART;VALUE=DATE:20260428
@@ -115,8 +115,8 @@ URL:https://www.fundacionareces.es/fundacionareces/es/actividades/the-futu
  re-ocean-economy-blue-innovation-sustainability-and-resiliance.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Radiología 4.0. El ojo inteligente de la medicina 5P: personaliza
- da\, predictiva\, preventiva\, participativa y poblacional
+SUMMARY:Radiología 4.0: imágenes inteligentes que ayudan a predecir y pr
+ evenir la enfermedad
 DTSTART;VALUE=DATE:20260504
 DTEND;VALUE=DATE:20260505
 DTSTAMP:20260324T095905Z
