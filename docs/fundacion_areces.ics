@@ -101,6 +101,18 @@ URL:https://www.fundacionareces.es/fundacionareces/es/actividades/innovaci
  on-y-avances-en-oncologia-de-precision.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:La Medicina Intensiva del siglo XXI
+DTSTART;VALUE=DATE:20260427
+DTEND;VALUE=DATE:20260428
+DTSTAMP:20260407T100956Z
+UID:cfa3722d76fc12fd9239893d4d60646da60f253b661dd71131f03f75502c7106@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ la-medicina-intensiva-del-siglo-xxi.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-medic
+ ina-intensiva-del-siglo-xxi.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:The Future Ocean Economy – Blue Innovation\, Sustainability and 
  Resiliance
 DTSTART;VALUE=DATE:20260428
@@ -113,20 +125,5 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  l
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/the-futu
  re-ocean-economy-blue-innovation-sustainability-and-resiliance.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Una economía oceánica sostenible: innovación e inversión para 
- el crecimiento azul
-DTSTART;VALUE=DATE:20260429
-DTEND;VALUE=DATE:20260430
-DTSTAMP:20260327T095731Z
-UID:a3ef4c1ac65c095c88aaeb55e007a6fc95063d52ea450901c14db755e89984c5@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- una-economia-oceanica-sostenible-innovacion-e-inversion-para-el-crecimient
- o-azul.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/una-econ
- omia-oceanica-sostenible-innovacion-e-inversion-para-el-crecimiento-azul.h
- tml
 END:VEVENT
 END:VCALENDAR
