@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:La propia vida novelada: la autobiografía y el autorretrato
-DTSTART;VALUE=DATE:20260408
-DTEND;VALUE=DATE:20260409
-DTSTAMP:20260302T095515Z
-UID:6d433f6350096ed6bd332a8aee3ac635faa155b3bbeda81247cc9a1157d7087e@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- la-propia-vida-novelada-la-autobiografia-y-el-autorretrato.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-propi
- a-vida-novelada-la-autobiografia-y-el-autorretrato.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Las artes y las letras en la España del siglo XXI: música
 DTSTART;VALUE=DATE:20260414
 DTEND;VALUE=DATE:20260415
@@ -125,5 +113,20 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  l
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/the-futu
  re-ocean-economy-blue-innovation-sustainability-and-resiliance.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Una economía oceánica sostenible: innovación e inversión para 
+ el crecimiento azul
+DTSTART;VALUE=DATE:20260429
+DTEND;VALUE=DATE:20260430
+DTSTAMP:20260327T095731Z
+UID:a3ef4c1ac65c095c88aaeb55e007a6fc95063d52ea450901c14db755e89984c5@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ una-economia-oceanica-sostenible-innovacion-e-inversion-para-el-crecimient
+ o-azul.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/una-econ
+ omia-oceanica-sostenible-innovacion-e-inversion-para-el-crecimiento-azul.h
+ tml
 END:VEVENT
 END:VCALENDAR
