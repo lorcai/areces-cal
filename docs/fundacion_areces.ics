@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:Las artes y las letras en la España del siglo XXI: música
-DTSTART;VALUE=DATE:20260414
-DTEND;VALUE=DATE:20260415
-DTSTAMP:20260305T123804Z
-UID:248ff3dd71b9989d350992378c85a8c9329397aa779876f6e8d74ca4f40c36be@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- las-artes-y-las-letras-en-la-espana-del-siglo-xxi-musica.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/las-arte
- s-y-las-letras-en-la-espana-del-siglo-xxi-musica.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Siguiendo huellas radioactivas en el Ártico y Atlántico Norte
 DTSTART;VALUE=DATE:20260415
 DTEND;VALUE=DATE:20260416
@@ -128,5 +116,20 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/una-econ
  omia-oceanica-sostenible-innovacion-e-inversion-para-el-crecimiento-azul.h
  tml
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Radiología 4.0: imágenes inteligentes que ayudan a predecir y pr
+ evenir la enfermedad
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260505
+DTSTAMP:20260324T095905Z
+UID:82c4e93f8eae3d597c61693040112fbe5b57d550bc295face74c8be9d55433a4@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ radiologia-40-el-ojo-inteligente-de-la-medicina-5p-personalizada-predictiv
+ a-preventiva-participativa-y-poblacional.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/radiolog
+ ia-40-el-ojo-inteligente-de-la-medicina-5p-personalizada-predictiva-preven
+ tiva-participativa-y-poblacional.html
 END:VEVENT
 END:VCALENDAR
