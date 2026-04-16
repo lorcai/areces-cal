@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:Siguiendo huellas radioactivas en el Ártico y Atlántico Norte
-DTSTART;VALUE=DATE:20260415
-DTEND;VALUE=DATE:20260416
-DTSTAMP:20260305T123804Z
-UID:023550f2bc33add3125c02d4da1045de7707e1927b700b90d70f0db5bea1e978@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- siguiendo-huellas-radioactivas-en-el-artico-y-atlantico-norte.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/siguiend
- o-huellas-radioactivas-en-el-artico-y-atlantico-norte.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:La economía mundial ante la desglobalización: ayer y hoy
 DTSTART;VALUE=DATE:20260416
 DTEND;VALUE=DATE:20260417
@@ -131,5 +119,17 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/radiolog
  ia-40-el-ojo-inteligente-de-la-medicina-5p-personalizada-predictiva-preven
  tiva-participativa-y-poblacional.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Where science takes us: looking back\, looking forward
+DTSTART;VALUE=DATE:20260505
+DTEND;VALUE=DATE:20260506
+DTSTAMP:20260416T101743Z
+UID:203e4afc5d507da5129fa86d03583008f4dffba4fb221e4264b552698bf821ad@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ where-science-takes-us-looking-back-looking-forward.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/where-sc
+ ience-takes-us-looking-back-looking-forward.html
 END:VEVENT
 END:VCALENDAR
