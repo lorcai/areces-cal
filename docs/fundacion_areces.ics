@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:La economía mundial ante la desglobalización: ayer y hoy
-DTSTART;VALUE=DATE:20260416
-DTEND;VALUE=DATE:20260417
-DTSTAMP:20260310T095041Z
-UID:3589bd18524709dadcffe649ed79b149ad0ab26b5281c0e5d31f81bacaccde75@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- la-economia-mundial-ante-la-desglobalizacion-ayer-y-hoy.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-econo
- mia-mundial-ante-la-desglobalizacion-ayer-y-hoy.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:200 años del descubrimiento del benceno: seis átomos de carbono 
  que cambiaron el mundo
 DTSTART;VALUE=DATE:20260420
@@ -131,5 +119,19 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  where-science-takes-us-looking-back-looking-forward.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/where-sc
  ience-takes-us-looking-back-looking-forward.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Explorando la intersección cerebro-microbioma: claves para una sa
+ lud integral
+DTSTART;VALUE=DATE:20260511
+DTEND;VALUE=DATE:20260512
+DTSTAMP:20260417T101543Z
+UID:a4916d6d08ec8e4efbac5f0090895ed77a7bb306527a7d03f8c8300ef2bc7ee2@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ explorando-la-interseccion-cerebro-microbioma-claves-para-una-salud-integr
+ al.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/exploran
+ do-la-interseccion-cerebro-microbioma-claves-para-una-salud-integral.html
 END:VEVENT
 END:VCALENDAR
