@@ -2,21 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:200 años del descubrimiento del benceno: seis átomos de carbono 
- que cambiaron el mundo
-DTSTART;VALUE=DATE:20260420
-DTEND;VALUE=DATE:20260421
-DTSTAMP:20260317T095825Z
-UID:87eaf8f852154f3f88ac8f6fcc31ffbc41aa5aee2a6d462f7ff81251e41a2718@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- 200-anos-del-descubrimiento-del-benceno-seis-atomos-de-carbono-que-cambiar
- on-el-mundo.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/200-anos
- -del-descubrimiento-del-benceno-seis-atomos-de-carbono-que-cambiaron-el-mu
- ndo.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Conversaciones en torno a la medicina personalizada
 DTSTART;VALUE=DATE:20260421
 DTEND;VALUE=DATE:20260422
@@ -133,5 +118,17 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  al.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/exploran
  do-la-interseccion-cerebro-microbioma-claves-para-una-salud-integral.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Las artes y las letras en la España del siglo XXI: historia
+DTSTART;VALUE=DATE:20260512
+DTEND;VALUE=DATE:20260513
+DTSTAMP:20260421T101943Z
+UID:366444b230ed448e1863b516c129636d48bab763cbb99de9b7d6ec134ae3456e@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ las-artes-y-las-letras-en-la-espana-del-siglo-xxi-historia.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/las-arte
+ s-y-las-letras-en-la-espana-del-siglo-xxi-historia.html
 END:VEVENT
 END:VCALENDAR
