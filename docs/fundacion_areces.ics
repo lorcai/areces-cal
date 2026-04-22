@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:Conversaciones en torno a la medicina personalizada
-DTSTART;VALUE=DATE:20260421
-DTEND;VALUE=DATE:20260422
-DTSTAMP:20260318T095942Z
-UID:7656f1288478f64395229bb31440421fc4f8f9983daa98bbd6d9a6e840faa9a1@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- conversaciones-en-torno-a-la-medicina-personalizada.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/conversa
- ciones-en-torno-a-la-medicina-personalizada.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:La historia clínica y el elogio fúnebre
 DTSTART;VALUE=DATE:20260422
 DTEND;VALUE=DATE:20260423
@@ -130,5 +118,17 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  las-artes-y-las-letras-en-la-espana-del-siglo-xxi-historia.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/las-arte
  s-y-las-letras-en-la-espana-del-siglo-xxi-historia.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ondas Gravitacionales: una década explorando el Universo
+DTSTART;VALUE=DATE:20260518
+DTEND;VALUE=DATE:20260519
+DTSTAMP:20260422T102041Z
+UID:670948edce59759162a2dac7cdb84b01650f0d887e84480b150e9ded58d740ba@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ ondas-gravitacionales-una-decada-explorando-el-universo.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/ondas-gr
+ avitacionales-una-decada-explorando-el-universo.html
 END:VEVENT
 END:VCALENDAR
