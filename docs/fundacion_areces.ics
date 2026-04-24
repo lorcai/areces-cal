@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:Innovación y avances en oncología de precisión
-DTSTART;VALUE=DATE:20260423
-DTEND;VALUE=DATE:20260424
-DTSTAMP:20260326T100326Z
-UID:a5830596c36fe569b871ce7c713419c5cc1ca4764c989e0450a4aad9b88f5a84@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- innovacion-y-avances-en-oncologia-de-precision.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/innovaci
- on-y-avances-en-oncologia-de-precision.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:La Medicina Intensiva del siglo XXI
 DTSTART;VALUE=DATE:20260427
 DTEND;VALUE=DATE:20260428
@@ -130,5 +118,17 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  ondas-gravitacionales-una-decada-explorando-el-universo.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/ondas-gr
  avitacionales-una-decada-explorando-el-universo.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Las historias de amor
+DTSTART;VALUE=DATE:20260519
+DTEND;VALUE=DATE:20260520
+DTSTAMP:20260424T102513Z
+UID:360f4b890c5dfa59a145527f34d6a0f11ea76f7c4457cf67e6ed2fc26cfb7fe5@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ las-historias-de-amor.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/las-hist
+ orias-de-amor.html
 END:VEVENT
 END:VCALENDAR
