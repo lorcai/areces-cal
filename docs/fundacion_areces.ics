@@ -16,21 +16,6 @@ URL:https://www.fundacionareces.es/fundacionareces/es/actividades/the-futu
  re-ocean-economy-blue-innovation-sustainability-and-resiliance.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Una economía oceánica sostenible: innovación e inversión para 
- el crecimiento azul
-DTSTART;VALUE=DATE:20260429
-DTEND;VALUE=DATE:20260430
-DTSTAMP:20260327T095731Z
-UID:a3ef4c1ac65c095c88aaeb55e007a6fc95063d52ea450901c14db755e89984c5@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- una-economia-oceanica-sostenible-innovacion-e-inversion-para-el-crecimient
- o-azul.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/una-econ
- omia-oceanica-sostenible-innovacion-e-inversion-para-el-crecimiento-azul.h
- tml
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Radiología 4.0: imágenes inteligentes que ayudan a predecir y pr
  evenir la enfermedad
 DTSTART;VALUE=DATE:20260504
@@ -130,5 +115,17 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  la-tierra-un-planeta-mas.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-tierr
  a-un-planeta-mas.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Normas Culturales: Origen\, Persistencia y Evolución
+DTSTART;VALUE=DATE:20260528
+DTEND;VALUE=DATE:20260529
+DTSTAMP:20260430T105752Z
+UID:df5bb1ca046c9d9e5bbf4c49dc5188c42ce31d6a1dfe697cd28695200ade00f7@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ normas-culturales-origen-persistencia-y-evolucion.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/normas-c
+ ulturales-origen-persistencia-y-evolucion.html
 END:VEVENT
 END:VCALENDAR
