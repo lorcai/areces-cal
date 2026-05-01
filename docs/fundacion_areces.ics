@@ -2,20 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:The Future Ocean Economy – Blue Innovation\, Sustainability and 
- Resilience
-DTSTART;VALUE=DATE:20260428
-DTEND;VALUE=DATE:20260429
-DTSTAMP:20260320T094902Z
-UID:cb04c880cad3cb1cfdc9724bc7cab459cfd1540dcdb5f1ef06a8bbfe73e23693@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- the-future-ocean-economy-blue-innovation-sustainability-and-resiliance.htm
- l
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/the-futu
- re-ocean-economy-blue-innovation-sustainability-and-resiliance.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Radiología 4.0: imágenes inteligentes que ayudan a predecir y pr
  evenir la enfermedad
 DTSTART;VALUE=DATE:20260504
@@ -127,5 +113,18 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  normas-culturales-origen-persistencia-y-evolucion.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/normas-c
  ulturales-origen-persistencia-y-evolucion.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Deep Learning e Inteligencia Artificial Causal en Economía y Fina
+ nzas
+DTSTART;VALUE=DATE:20260602
+DTEND;VALUE=DATE:20260603
+DTSTAMP:20260501T102446Z
+UID:044733be903c9e4c24fe263c19454b6effbea96dd9222780e23e038a034b9cda@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ deep-learning-e-inteligencia-artificial-causal-para-la-estimacion.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/deep-lea
+ rning-e-inteligencia-artificial-causal-para-la-estimacion.html
 END:VEVENT
 END:VCALENDAR
