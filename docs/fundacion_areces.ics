@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:Where science takes us: looking back\, looking forward
-DTSTART;VALUE=DATE:20260505
-DTEND;VALUE=DATE:20260506
-DTSTAMP:20260416T101743Z
-UID:203e4afc5d507da5129fa86d03583008f4dffba4fb221e4264b552698bf821ad@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- where-science-takes-us-looking-back-looking-forward.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/where-sc
- ience-takes-us-looking-back-looking-forward.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Programa Artemis: El papel clave de Europa en el regreso a la Luna
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260508
@@ -125,5 +113,17 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/presente
  -y-futuro-de-la-politica-comun-de-seguridad-y-defensa-de-la-union.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El incierto futuro de la democracia
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260609
+DTSTAMP:20260506T110855Z
+UID:79c5e379a62c3f6affbc353080d3ab0fde46ed4c7c1aad823ca9bcd9320a8a22@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ el-incierto-futuro-de-la-democracia.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/el-incie
+ rto-futuro-de-la-democracia.html
 END:VEVENT
 END:VCALENDAR
