@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:Programa Artemis: El papel clave de Europa en el regreso a la Luna
-DTSTART;VALUE=DATE:20260507
-DTEND;VALUE=DATE:20260508
-DTSTAMP:20260423T102251Z
-UID:f1b6cada99a72bc34396b41b35d82eea49b170fd43f0755a0f013f5415518c60@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- programa-artemis-el-papel-clave-de-europa-en-el-regreso-a-la-luna.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/programa
- -artemis-el-papel-clave-de-europa-en-el-regreso-a-la-luna.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Explorando la intersección cerebro-microbioma: claves para una sa
  lud integral
 DTSTART;VALUE=DATE:20260511
@@ -86,6 +74,20 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  normas-culturales-origen-persistencia-y-evolucion.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/normas-c
  ulturales-origen-persistencia-y-evolucion.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Pioneros de la innovación: ingenieros e inventores españoles del
+  Siglo XX
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+DTSTAMP:20260508T102629Z
+UID:e04b84e041a395e008cb1c9b5cc2d3885acb60d8ca3921d76353f15c7c89a6e1@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ pioneros-de-la-innovacion-ingenieros-e-inventores-espanoles-del-siglo-xx.h
+ tml
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/pioneros
+ -de-la-innovacion-ingenieros-e-inventores-espanoles-del-siglo-xx.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Deep Learning e Inteligencia Artificial Causal en Economía y Fina
