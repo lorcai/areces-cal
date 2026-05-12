@@ -2,20 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:Explorando la intersección cerebro-microbioma: claves para una sa
- lud integral
-DTSTART;VALUE=DATE:20260511
-DTEND;VALUE=DATE:20260512
-DTSTAMP:20260417T101543Z
-UID:a4916d6d08ec8e4efbac5f0090895ed77a7bb306527a7d03f8c8300ef2bc7ee2@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- explorando-la-interseccion-cerebro-microbioma-claves-para-una-salud-integr
- al.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/exploran
- do-la-interseccion-cerebro-microbioma-claves-para-una-salud-integral.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Las artes y las letras en la España del siglo XXI: historia
 DTSTART;VALUE=DATE:20260512
 DTEND;VALUE=DATE:20260513
@@ -127,5 +113,20 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  el-incierto-futuro-de-la-democracia.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/el-incie
  rto-futuro-de-la-democracia.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La vida existe más allá de la bioquímica. Síntesis de vida art
+ ificial abiótica en el laboratorio
+DTSTART;VALUE=DATE:20260610
+DTEND;VALUE=DATE:20260611
+DTSTAMP:20260512T112251Z
+UID:af48010dc9d8fae358d638047e2753c89dca7cdda38a0a577247ea1720ad49ab@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ la-vida-existe-mas-alla-de-la-bioquimica-sintesis-de-vida-artificial-abiot
+ ica-en-el-laboratorio.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-vida-
+ existe-mas-alla-de-la-bioquimica-sintesis-de-vida-artificial-abiotica-en-e
+ l-laboratorio.html
 END:VEVENT
 END:VCALENDAR
