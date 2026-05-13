@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:Las artes y las letras en la España del siglo XXI: historia
-DTSTART;VALUE=DATE:20260512
-DTEND;VALUE=DATE:20260513
-DTSTAMP:20260421T101943Z
-UID:366444b230ed448e1863b516c129636d48bab763cbb99de9b7d6ec134ae3456e@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- las-artes-y-las-letras-en-la-espana-del-siglo-xxi-historia.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/las-arte
- s-y-las-letras-en-la-espana-del-siglo-xxi-historia.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ondas Gravitacionales: una década explorando el Universo
 DTSTART;VALUE=DATE:20260518
 DTEND;VALUE=DATE:20260519
@@ -128,5 +116,17 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-vida-
  existe-mas-alla-de-la-bioquimica-sintesis-de-vida-artificial-abiotica-en-e
  l-laboratorio.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:De la indeterminación cuántica al universo acelerado
+DTSTART;VALUE=DATE:20260615
+DTEND;VALUE=DATE:20260616
+DTSTAMP:20260513T113153Z
+UID:e33a61ffabed1fa9d9a0ca85d07d8944d39f311d7f3be6003cfff46be58fc5fc@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ de-la-indeterminacion-cuantica-al-universo-acelerado.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/de-la-in
+ determinacion-cuantica-al-universo-acelerado.html
 END:VEVENT
 END:VCALENDAR
