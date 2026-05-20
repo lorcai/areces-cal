@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:Las historias de amor
-DTSTART;VALUE=DATE:20260519
-DTEND;VALUE=DATE:20260520
-DTSTAMP:20260424T102513Z
-UID:360f4b890c5dfa59a145527f34d6a0f11ea76f7c4457cf67e6ed2fc26cfb7fe5@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- las-historias-de-amor.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/las-hist
- orias-de-amor.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:La Tierra: ¿un planeta más?
 DTSTART;VALUE=DATE:20260525
 DTEND;VALUE=DATE:20260526
@@ -128,5 +116,17 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  filosofia-pensar-pese-a-todo.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/filosofi
  a-pensar-pese-a-todo.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La penalización de la menopausia
+DTSTART;VALUE=DATE:20260618
+DTEND;VALUE=DATE:20260619
+DTSTAMP:20260520T115013Z
+UID:4ad4812e3075bd27ebfbb8d0824fcca37e2c6519294b227d0e4482f1c57a6a7a@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ la-penalizacion-de-la-menopausia.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-penal
+ izacion-de-la-menopausia.html
 END:VEVENT
 END:VCALENDAR
