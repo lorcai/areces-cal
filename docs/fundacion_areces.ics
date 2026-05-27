@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:La Tierra: ¿un planeta más?
-DTSTART;VALUE=DATE:20260525
-DTEND;VALUE=DATE:20260526
-DTSTAMP:20260428T110656Z
-UID:4c3ad1929accffea93b6977f597cf0642d33693b1e56a7b8023627915336e61d@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- la-tierra-un-planeta-mas.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-tierr
- a-un-planeta-mas.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Normas Culturales: Origen\, Persistencia y Evolución
 DTSTART;VALUE=DATE:20260528
 DTEND;VALUE=DATE:20260529
@@ -128,5 +116,19 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  la-penalizacion-de-la-menopausia.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-penal
  izacion-de-la-menopausia.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Premios Nobel de Física y Química 2025: De la Cuántica al Dise
+ ño Molecular
+DTSTART;VALUE=DATE:20260622
+DTEND;VALUE=DATE:20260623
+DTSTAMP:20260527T122210Z
+UID:fd4db19575c22bf1e72b3750ba0549d598780280d69d6652c0c698b8e3d267c9@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ premios-nobel-de-fisica-y-quimica-2025-de-la-cuantica-al-diseno-molecular.
+ html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/premios-
+ nobel-de-fisica-y-quimica-2025-de-la-cuantica-al-diseno-molecular.html
 END:VEVENT
 END:VCALENDAR
