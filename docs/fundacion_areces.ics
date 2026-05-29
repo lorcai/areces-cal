@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:Normas Culturales: Origen\, Persistencia y Evolución
-DTSTART;VALUE=DATE:20260528
-DTEND;VALUE=DATE:20260529
-DTSTAMP:20260430T105752Z
-UID:df5bb1ca046c9d9e5bbf4c49dc5188c42ce31d6a1dfe697cd28695200ade00f7@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- normas-culturales-origen-persistencia-y-evolucion.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/normas-c
- ulturales-origen-persistencia-y-evolucion.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Pioneros de la innovación: ingenieros e inventores españoles del
   siglo XX
 DTSTART;VALUE=DATE:20260601
@@ -130,5 +118,17 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/premios-
  nobel-de-fisica-y-quimica-2025-de-la-cuantica-al-diseno-molecular.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El cine como espejo colectivo
+DTSTART;VALUE=DATE:20260623
+DTEND;VALUE=DATE:20260624
+DTSTAMP:20260529T121733Z
+UID:f07c390249a1ae25045bf925a481113b34c39014299e54f674500fa8e805242d@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ el-cine-como-espejo-colectivo.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/el-cine-
+ como-espejo-colectivo.html
 END:VEVENT
 END:VCALENDAR
