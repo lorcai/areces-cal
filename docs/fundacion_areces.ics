@@ -2,33 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:Deep Learning e Inteligencia Artificial Causal en Economía y Fina
- nzas
-DTSTART;VALUE=DATE:20260602
-DTEND;VALUE=DATE:20260603
-DTSTAMP:20260501T102446Z
-UID:044733be903c9e4c24fe263c19454b6effbea96dd9222780e23e038a034b9cda@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- deep-learning-e-inteligencia-artificial-causal-para-la-estimacion.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/deep-lea
- rning-e-inteligencia-artificial-causal-para-la-estimacion.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Presente y futuro de la Política Común de Seguridad y Defensa de
-  la Unión Europea
-DTSTART;VALUE=DATE:20260604
-DTEND;VALUE=DATE:20260605
-DTSTAMP:20260505T104849Z
-UID:fb5054271ed956e30533edc540aa8c472cf78780ad12dfe440a82b021f2ed22d@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- presente-y-futuro-de-la-politica-comun-de-seguridad-y-defensa-de-la-union.
- html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/presente
- -y-futuro-de-la-politica-comun-de-seguridad-y-defensa-de-la-union.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:El incierto futuro de la democracia
 DTSTART;VALUE=DATE:20260608
 DTEND;VALUE=DATE:20260609
@@ -131,5 +104,29 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/the-grow
  th-story-of-the-21st-century-the-economics-and-opportunity-of-climate-acti
  on.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La economía y las oportunidades de la acción climática
+DTSTART;VALUE=DATE:20260625
+DTEND;VALUE=DATE:20260626
+DTSTAMP:20260605T121016Z
+UID:61f5d149b9fbb14b673e6b4aed4606627d64d9844a565dae58f6281c2c976225@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ la-economia-y-las-oportunidades-de-la-accion-climatica.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-econo
+ mia-y-las-oportunidades-de-la-accion-climatica.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:De la química en el espacio al origen de la vida
+DTSTART;VALUE=DATE:20260629
+DTEND;VALUE=DATE:20260630
+DTSTAMP:20260605T121016Z
+UID:1da24dc84cbb1d8e8dc1ef1ef3916b656b504bafa6dde151800c06c527ef7e6c@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ de-la-quimica-en-el-espacio-al-origen-de-la-vida.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/de-la-qu
+ imica-en-el-espacio-al-origen-de-la-vida.html
 END:VEVENT
 END:VCALENDAR
