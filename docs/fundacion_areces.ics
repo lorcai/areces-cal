@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:El incierto futuro de la democracia
-DTSTART;VALUE=DATE:20260608
-DTEND;VALUE=DATE:20260609
-DTSTAMP:20260506T110855Z
-UID:79c5e379a62c3f6affbc353080d3ab0fde46ed4c7c1aad823ca9bcd9320a8a22@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- el-incierto-futuro-de-la-democracia.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/el-incie
- rto-futuro-de-la-democracia.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:La vida existe más allá de la bioquímica. Síntesis de vida art
  ificial abiótica en el laboratorio
 DTSTART;VALUE=DATE:20260610
@@ -128,5 +116,17 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  de-la-quimica-en-el-espacio-al-origen-de-la-vida.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/de-la-qu
  imica-en-el-espacio-al-origen-de-la-vida.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La despoblación mundial: estemos preparados o no\, ya está aquí
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20260707
+DTSTAMP:20260609T120710Z
+UID:ce57ce319afd106e7e207cc523596d66ce442a9de1b77033be2ba172c35dec73@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ la-despoblacion-mundial-estemos-preparados-o-no-ya-esta-aqui.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-despo
+ blacion-mundial-estemos-preparados-o-no-ya-esta-aqui.html
 END:VEVENT
 END:VCALENDAR
