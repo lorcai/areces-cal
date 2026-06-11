@@ -2,21 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:La vida existe más allá de la bioquímica. Síntesis de vida art
- ificial abiótica en el laboratorio
-DTSTART;VALUE=DATE:20260610
-DTEND;VALUE=DATE:20260611
-DTSTAMP:20260512T112251Z
-UID:af48010dc9d8fae358d638047e2753c89dca7cdda38a0a577247ea1720ad49ab@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- la-vida-existe-mas-alla-de-la-bioquimica-sintesis-de-vida-artificial-abiot
- ica-en-el-laboratorio.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-vida-
- existe-mas-alla-de-la-bioquimica-sintesis-de-vida-artificial-abiotica-en-e
- l-laboratorio.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:De la indeterminación cuántica al universo acelerado
 DTSTART;VALUE=DATE:20260615
 DTEND;VALUE=DATE:20260616
@@ -128,5 +113,17 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  la-despoblacion-mundial-estemos-preparados-o-no-ya-esta-aqui.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-despo
  blacion-mundial-estemos-preparados-o-no-ya-esta-aqui.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El cielo en rayos gamma del Observatorio Cherenkov Telescope Array
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+DTSTAMP:20260611T124915Z
+UID:e7b528e9f9343be064af3c01000933bed95cabfdb981563c51950b0d5a086034@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ el-cielo-en-rayos-gamma-del-observatorio-cherenkov-telescope-array.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/el-cielo
+ -en-rayos-gamma-del-observatorio-cherenkov-telescope-array.html
 END:VEVENT
 END:VCALENDAR
