@@ -115,15 +115,15 @@ URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-despo
  blacion-mundial-estemos-preparados-o-no-ya-esta-aqui.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:El cielo en rayos gamma del Observatorio Cherenkov Telescope Array
-DTSTART;VALUE=DATE:20260907
-DTEND;VALUE=DATE:20260908
-DTSTAMP:20260611T124915Z
-UID:e7b528e9f9343be064af3c01000933bed95cabfdb981563c51950b0d5a086034@arece
+SUMMARY:Energía de fusión para la sociedad
+DTSTART;VALUE=DATE:20260707
+DTEND;VALUE=DATE:20260708
+DTSTAMP:20260613T111655Z
+UID:8a2add3b5391d56806fa215f06afaacb7c015414abeafc7924aaccf20ea89ced@arece
  s
 DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- el-cielo-en-rayos-gamma-del-observatorio-cherenkov-telescope-array.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/el-cielo
- -en-rayos-gamma-del-observatorio-cherenkov-telescope-array.html
+ energia-de-fusion-para-la-sociedad.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/energia-
+ de-fusion-para-la-sociedad.html
 END:VEVENT
 END:VCALENDAR
