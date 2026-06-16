@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:De la indeterminación cuántica al universo acelerado
-DTSTART;VALUE=DATE:20260615
-DTEND;VALUE=DATE:20260616
-DTSTAMP:20260513T113153Z
-UID:e33a61ffabed1fa9d9a0ca85d07d8944d39f311d7f3be6003cfff46be58fc5fc@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- de-la-indeterminacion-cuantica-al-universo-acelerado.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/de-la-in
- determinacion-cuantica-al-universo-acelerado.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Filosofía: pensar\, pese a todo
 DTSTART;VALUE=DATE:20260616
 DTEND;VALUE=DATE:20260617
@@ -125,5 +113,17 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  energia-de-fusion-para-la-sociedad.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/energia-
  de-fusion-para-la-sociedad.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El cielo en rayos gamma del Observatorio Cherenkov Telescope Array
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+DTSTAMP:20260611T124915Z
+UID:e7b528e9f9343be064af3c01000933bed95cabfdb981563c51950b0d5a086034@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ el-cielo-en-rayos-gamma-del-observatorio-cherenkov-telescope-array.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/el-cielo
+ -en-rayos-gamma-del-observatorio-cherenkov-telescope-array.html
 END:VEVENT
 END:VCALENDAR
