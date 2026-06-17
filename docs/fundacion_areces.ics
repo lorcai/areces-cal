@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:Filosofía: pensar\, pese a todo
-DTSTART;VALUE=DATE:20260616
-DTEND;VALUE=DATE:20260617
-DTSTAMP:20260519T121234Z
-UID:4e65169adbf9fd8002fd2048df2c7972b11345d7e0e67d5d7a5f9f17a6bba60f@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- filosofia-pensar-pese-a-todo.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/filosofi
- a-pensar-pese-a-todo.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:La penalización de la menopausia
 DTSTART;VALUE=DATE:20260618
 DTEND;VALUE=DATE:20260619
