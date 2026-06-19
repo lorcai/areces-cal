@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:La penalización de la menopausia
-DTSTART;VALUE=DATE:20260618
-DTEND;VALUE=DATE:20260619
-DTSTAMP:20260520T115013Z
-UID:4ad4812e3075bd27ebfbb8d0824fcca37e2c6519294b227d0e4482f1c57a6a7a@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- la-penalizacion-de-la-menopausia.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-penal
- izacion-de-la-menopausia.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Premios Nobel de Física y Química 2025: De la Cuántica al Dise
  ño Molecular
 DTSTART;VALUE=DATE:20260622
