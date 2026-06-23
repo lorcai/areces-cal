@@ -2,20 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:Premios Nobel de Física y Química 2025: De la Cuántica al Dise
- ño Molecular
-DTSTART;VALUE=DATE:20260622
-DTEND;VALUE=DATE:20260623
-DTSTAMP:20260527T122210Z
-UID:fd4db19575c22bf1e72b3750ba0549d598780280d69d6652c0c698b8e3d267c9@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- premios-nobel-de-fisica-y-quimica-2025-de-la-cuantica-al-diseno-molecular.
- html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/premios-
- nobel-de-fisica-y-quimica-2025-de-la-cuantica-al-diseno-molecular.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:El cine como espejo colectivo
 DTSTART;VALUE=DATE:20260623
 DTEND;VALUE=DATE:20260624
@@ -101,5 +87,17 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  el-cielo-en-rayos-gamma-del-observatorio-cherenkov-telescope-array.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/el-cielo
  -en-rayos-gamma-del-observatorio-cherenkov-telescope-array.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La doble escalera: lo macro y lo micro en la física
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+DTSTAMP:20260623T120914Z
+UID:f31bbcb916593ba1f71612843108acb1bac58b8463a89f7d01aca0308abab5d8@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ la-doble-escalera-lo-macro-y-lo-micro-en-la-fisica.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-doble
+ -escalera-lo-macro-y-lo-micro-en-la-fisica.html
 END:VEVENT
 END:VCALENDAR
