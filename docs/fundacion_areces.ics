@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:El cine como espejo colectivo
-DTSTART;VALUE=DATE:20260623
-DTEND;VALUE=DATE:20260624
-DTSTAMP:20260529T121733Z
-UID:f07c390249a1ae25045bf925a481113b34c39014299e54f674500fa8e805242d@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- el-cine-como-espejo-colectivo.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/el-cine-
- como-espejo-colectivo.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The Growth Story of the 21st Century: The Economics and Opportunit
  y of Climate Action
 DTSTART;VALUE=DATE:20260624
