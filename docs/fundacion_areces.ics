@@ -17,18 +17,6 @@ URL:https://www.fundacionareces.es/fundacionareces/es/actividades/the-grow
  on.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:La economía y las oportunidades de la acción climática
-DTSTART;VALUE=DATE:20260625
-DTEND;VALUE=DATE:20260626
-DTSTAMP:20260605T121016Z
-UID:61f5d149b9fbb14b673e6b4aed4606627d64d9844a565dae58f6281c2c976225@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- la-economia-y-las-oportunidades-de-la-accion-climatica.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-econo
- mia-y-las-oportunidades-de-la-accion-climatica.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:De la química en el espacio al origen de la vida
 DTSTART;VALUE=DATE:20260629
 DTEND;VALUE=DATE:20260630
@@ -75,6 +63,20 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  el-cielo-en-rayos-gamma-del-observatorio-cherenkov-telescope-array.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/el-cielo
  -en-rayos-gamma-del-observatorio-cherenkov-telescope-array.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Olmos y bosques en riesgo: patrimonio natural frente al fuego y el
+  olvido
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+DTSTAMP:20260626T114609Z
+UID:522c7b54240ed53621170cc4d7223399e65a9e2405b4009419f56b9b9bb8bf16@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ olmos-y-bosques-en-riesgo-patrimonio-natural-frente-al-fuego-y-el-olvido.h
+ tml
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/olmos-y-
+ bosques-en-riesgo-patrimonio-natural-frente-al-fuego-y-el-olvido.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:La doble escalera: lo macro y lo micro en la física
