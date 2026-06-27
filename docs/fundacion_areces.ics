@@ -2,21 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:The Growth Story of the 21st Century: The Economics and Opportunit
- y of Climate Action
-DTSTART;VALUE=DATE:20260624
-DTEND;VALUE=DATE:20260625
-DTSTAMP:20260602T124430Z
-UID:093c1f703d396c47e37e9849bd45cd8626ee5466768ba94d2352e702779ba727@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- the-growth-story-of-the-21st-century-the-economics-and-opportunity-of-clim
- ate-action.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/the-grow
- th-story-of-the-21st-century-the-economics-and-opportunity-of-climate-acti
- on.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:De la química en el espacio al origen de la vida
 DTSTART;VALUE=DATE:20260629
 DTEND;VALUE=DATE:20260630
