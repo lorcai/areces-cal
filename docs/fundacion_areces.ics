@@ -50,6 +50,18 @@ URL:https://www.fundacionareces.es/fundacionareces/es/actividades/el-cielo
  -en-rayos-gamma-del-observatorio-cherenkov-telescope-array.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:El cuerpo de las ciencias
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+DTSTAMP:20260629T130904Z
+UID:06b5d9bb1c002ba3509a6c324f0c8348e68bf2261d1e022ccd5ff14d6fe625f4@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ el-cuerpo-de-las-ciencias.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/el-cuerp
+ o-de-las-ciencias.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Olmos y bosques en riesgo: patrimonio natural frente al fuego y el
   olvido
 DTSTART;VALUE=DATE:20260928
