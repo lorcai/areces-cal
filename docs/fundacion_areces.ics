@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:De la química en el espacio al origen de la vida
-DTSTART;VALUE=DATE:20260629
-DTEND;VALUE=DATE:20260630
-DTSTAMP:20260605T121016Z
-UID:1da24dc84cbb1d8e8dc1ef1ef3916b656b504bafa6dde151800c06c527ef7e6c@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- de-la-quimica-en-el-espacio-al-origen-de-la-vida.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/de-la-qu
- imica-en-el-espacio-al-origen-de-la-vida.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:La despoblación mundial: estemos preparados o no\, ya está aquí
 DTSTART;VALUE=DATE:20260706
 DTEND;VALUE=DATE:20260707
