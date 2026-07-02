@@ -50,6 +50,18 @@ URL:https://www.fundacionareces.es/fundacionareces/es/actividades/el-cuerp
  o-de-las-ciencias.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Ecosistema científico y tecnológico español
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+DTSTAMP:20260702T113624Z
+UID:05c39ceec13549668e0f460eaf0134e385963eaec6e4b9df317c67f9e20a5ccb@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ ecosistema-cientifico-y-tecnologico-espanol.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/ecosiste
+ ma-cientifico-y-tecnologico-espanol.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Olmos y bosques en riesgo: patrimonio natural frente al fuego y el
   olvido
 DTSTART;VALUE=DATE:20260928
@@ -74,5 +86,17 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  la-doble-escalera-lo-macro-y-lo-micro-en-la-fisica.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-doble
  -escalera-lo-macro-y-lo-micro-en-la-fisica.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Comprendiendo la red neurovascular para prevenir la demencia
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+DTSTAMP:20260702T113624Z
+UID:e482f9bbc9dedf52db9d1067f930f4a5e2e4e50621cf136eb210cb4943805327@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ comprendiendo-la-red-neurovascular-para-prevenir-la-demencia.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/comprend
+ iendo-la-red-neurovascular-para-prevenir-la-demencia.html
 END:VEVENT
 END:VCALENDAR
