@@ -38,6 +38,18 @@ URL:https://www.fundacionareces.es/fundacionareces/es/actividades/el-cielo
  -en-rayos-gamma-del-observatorio-cherenkov-telescope-array.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:El efecto de la inmigración en el mercado laboral
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+DTSTAMP:20260706T122829Z
+UID:d56fd580f2bf6091cfc0f3d4907b3b4227c697d9c006092588a283443bdfdb03@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ el-efecto-de-la-inmigracion-en-el-mercado-laboral.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/el-efect
+ o-de-la-inmigracion-en-el-mercado-laboral.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:El cuerpo de las ciencias
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
