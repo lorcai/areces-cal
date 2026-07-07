@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:La despoblación mundial: estemos preparados o no\, ya está aquí
-DTSTART;VALUE=DATE:20260706
-DTEND;VALUE=DATE:20260707
-DTSTAMP:20260609T120710Z
-UID:ce57ce319afd106e7e207cc523596d66ce442a9de1b77033be2ba172c35dec73@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- la-despoblacion-mundial-estemos-preparados-o-no-ya-esta-aqui.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-despo
- blacion-mundial-estemos-preparados-o-no-ya-esta-aqui.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Energía de fusión para la sociedad
 DTSTART;VALUE=DATE:20260707
 DTEND;VALUE=DATE:20260708
