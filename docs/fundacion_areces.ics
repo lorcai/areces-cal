@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:Energía de fusión para la sociedad
-DTSTART;VALUE=DATE:20260707
-DTEND;VALUE=DATE:20260708
-DTSTAMP:20260613T111655Z
-UID:8a2add3b5391d56806fa215f06afaacb7c015414abeafc7924aaccf20ea89ced@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- energia-de-fusion-para-la-sociedad.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/energia-
- de-fusion-para-la-sociedad.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:El cielo en rayos gamma del Observatorio Cherenkov Telescope Array
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260908
