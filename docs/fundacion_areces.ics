@@ -38,6 +38,18 @@ URL:https://www.fundacionareces.es/fundacionareces/es/actividades/el-cuerp
  o-de-las-ciencias.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Severo Ochoa y otros contribuyentes a la biología universal
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+DTSTAMP:20260709T120731Z
+UID:9e500b5f98eeea2d3f7c6e8f0fd3659f1a4f9d07ca86b13f0a3377a27ccd8c1e@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ severo-ochoa-y-otros-contribuyentes-a-la-biologia-universal.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/severo-o
+ choa-y-otros-contribuyentes-a-la-biologia-universal.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ecosistema científico y tecnológico español
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
