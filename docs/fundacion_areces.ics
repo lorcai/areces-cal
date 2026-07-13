@@ -38,16 +38,18 @@ URL:https://www.fundacionareces.es/fundacionareces/es/actividades/el-cuerp
  o-de-las-ciencias.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:Severo Ochoa y otros contribuyentes a la biología universal
+SUMMARY:Severo Ochoa y sus coetáneos: el legado de los grandes biólogos 
+ de la historia
 DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260922
-DTSTAMP:20260709T120731Z
-UID:9e500b5f98eeea2d3f7c6e8f0fd3659f1a4f9d07ca86b13f0a3377a27ccd8c1e@arece
+DTSTAMP:20260713T120830Z
+UID:349f25202fa7810f1260f847c504cda78f358722583c1a55d8476445edf98e6f@arece
  s
 DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- severo-ochoa-y-otros-contribuyentes-a-la-biologia-universal.html
+ severo-ochoa-y-sus-coetaneos-el-legado-de-los-grandes-biologos-de-la-histo
+ ria.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/severo-o
- choa-y-otros-contribuyentes-a-la-biologia-universal.html
+ choa-y-sus-coetaneos-el-legado-de-los-grandes-biologos-de-la-historia.html
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Ecosistema científico y tecnológico español
