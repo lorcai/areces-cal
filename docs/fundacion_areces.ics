@@ -52,6 +52,19 @@ URL:https://www.fundacionareces.es/fundacionareces/es/actividades/severo-o
  choa-y-sus-coetaneos-el-legado-de-los-grandes-biologos-de-la-historia.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:La Economía de Género hoy: evidencias\, retos y políticas públ
+ icas
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+DTSTAMP:20260715T105307Z
+UID:a2f6fb53b6f6aecf9dfab6bf155cad3ee585e4271382be3521a077372af86ab8@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ la-economia-de-genero-hoy-evidencias-retos-y-politicas-publicas.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-econo
+ mia-de-genero-hoy-evidencias-retos-y-politicas-publicas.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ecosistema científico y tecnológico español
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
