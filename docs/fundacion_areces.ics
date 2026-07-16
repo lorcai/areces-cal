@@ -65,6 +65,20 @@ URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-econo
  mia-de-genero-hoy-evidencias-retos-y-politicas-publicas.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Indicadores comentados sobre el estado del sistema educativo espa
+ ñol 2026
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+DTSTAMP:20260716T110238Z
+UID:b5349f0bc532c1b7f7187f857929ac245651b56645d68e97498daee4381b8121@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ indicadores-comentados-sobre-el-estado-del-sistema-educativo-espanol-2026.
+ html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/indicado
+ res-comentados-sobre-el-estado-del-sistema-educativo-espanol-2026.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:Ecosistema científico y tecnológico español
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
