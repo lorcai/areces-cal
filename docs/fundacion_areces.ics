@@ -26,6 +26,21 @@ URL:https://www.fundacionareces.es/fundacionareces/es/actividades/el-efect
  o-de-la-inmigracion-en-el-mercado-laboral.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:De la investigación a la aplicación: la transferencia de conocim
+ iento como asignatura pendiente
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+DTSTAMP:20260717T104919Z
+UID:38ef650cc0d479fc656e5a3c99a5263388dd33b36b9db45bec91fa56c5d9366b@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ de-la-investigacion-a-la-aplicacion-la-transferencia-de-conocimiento-como-
+ asignatura-pendiente.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/de-la-in
+ vestigacion-a-la-aplicacion-la-transferencia-de-conocimiento-como-asignatu
+ ra-pendiente.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:El cuerpo de las ciencias
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
@@ -115,17 +130,5 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  la-doble-escalera-lo-macro-y-lo-micro-en-la-fisica.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-doble
  -escalera-lo-macro-y-lo-micro-en-la-fisica.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:Comprendiendo la red neurovascular para prevenir la demencia
-DTSTART;VALUE=DATE:20261120
-DTEND;VALUE=DATE:20261121
-DTSTAMP:20260702T113624Z
-UID:e482f9bbc9dedf52db9d1067f930f4a5e2e4e50621cf136eb210cb4943805327@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- comprendiendo-la-red-neurovascular-para-prevenir-la-demencia.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/comprend
- iendo-la-red-neurovascular-para-prevenir-la-demencia.html
 END:VEVENT
 END:VCALENDAR
