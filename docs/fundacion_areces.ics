@@ -120,15 +120,15 @@ URL:https://www.fundacionareces.es/fundacionareces/es/actividades/olmos-y-
  bosques-en-riesgo-patrimonio-natural-frente-al-fuego-y-el-olvido.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:La doble escalera: lo macro y lo micro en la física
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261021
-DTSTAMP:20260623T120914Z
-UID:f31bbcb916593ba1f71612843108acb1bac58b8463a89f7d01aca0308abab5d8@arece
+SUMMARY:Artistas de la historia: Charles de Gaulle y Winston Churchill
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+DTSTAMP:20260728T112014Z
+UID:84ff19ab5ca1065d639658bda0d0374e44b773aac68b030d9f8d9002f351520c@arece
  s
 DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- la-doble-escalera-lo-macro-y-lo-micro-en-la-fisica.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-doble
- -escalera-lo-macro-y-lo-micro-en-la-fisica.html
+ artistas-de-la-historia-charles-de-gaulle-y-winston-churchill.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/artistas
+ -de-la-historia-charles-de-gaulle-y-winston-churchill.html
 END:VEVENT
 END:VCALENDAR
