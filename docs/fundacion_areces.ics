@@ -121,7 +121,7 @@ URL:https://www.fundacionareces.es/fundacionareces/es/actividades/olmos-y-
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Homenaje al profesor Amable Liñán\, referente de la ingeniería 
- de combustión.
+ de combustión
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 DTSTAMP:20260901T140032Z
