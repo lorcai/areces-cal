@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:El cielo en rayos gamma del Observatorio Cherenkov Telescope Array
-DTSTART;VALUE=DATE:20260907
-DTEND;VALUE=DATE:20260908
-DTSTAMP:20260611T124915Z
-UID:e7b528e9f9343be064af3c01000933bed95cabfdb981563c51950b0d5a086034@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- el-cielo-en-rayos-gamma-del-observatorio-cherenkov-telescope-array.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/el-cielo
- -en-rayos-gamma-del-observatorio-cherenkov-telescope-array.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:El efecto de la inmigración en el mercado laboral
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
@@ -132,5 +120,17 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  .html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/homenaje
  -al-profesor-amable-linan-referente-de-la-ingenieria-de-combustion.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Geopolítica y tecnología: las nuevas fronteras
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+DTSTAMP:20260908T132349Z
+UID:86b1b860b37f4ab38005164b08f0932a3dd786b1e580e07806330a5d93c4cc39@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ geopolitica-y-tecnologia-las-nuevas-fronteras.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/geopolit
+ ica-y-tecnologia-las-nuevas-fronteras.html
 END:VEVENT
 END:VCALENDAR
