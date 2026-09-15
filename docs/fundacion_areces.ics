@@ -2,21 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:De la investigación a la aplicación: la transferencia de conocim
- iento como asignatura pendiente
-DTSTART;VALUE=DATE:20260914
-DTEND;VALUE=DATE:20260915
-DTSTAMP:20260717T104919Z
-UID:38ef650cc0d479fc656e5a3c99a5263388dd33b36b9db45bec91fa56c5d9366b@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- de-la-investigacion-a-la-aplicacion-la-transferencia-de-conocimiento-como-
- asignatura-pendiente.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/de-la-in
- vestigacion-a-la-aplicacion-la-transferencia-de-conocimiento-como-asignatu
- ra-pendiente.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:El cuerpo de las ciencias
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
@@ -132,5 +117,17 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  ela-motoneurona-y-no-motoneurona.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/ela-moto
  neurona-y-no-motoneurona.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Metástasis cerebral: conocimiento para avanzar
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261010
+DTSTAMP:20260915T141328Z
+UID:2f57d60c09fd82ed900b035d02943170a4fa28cc598f7561cd96c7f4c184e675@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ metastasis-cerebral-conocimiento-para-avanzar.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/metastas
+ is-cerebral-conocimiento-para-avanzar.html
 END:VEVENT
 END:VCALENDAR
