@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:El cuerpo de las ciencias
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260919
-DTSTAMP:20260629T130904Z
-UID:06b5d9bb1c002ba3509a6c324f0c8348e68bf2261d1e022ccd5ff14d6fe625f4@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- el-cuerpo-de-las-ciencias.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/el-cuerp
- o-de-las-ciencias.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Severo Ochoa y sus coetáneos: el legado de los grandes biólogos 
  de la historia
 DTSTART;VALUE=DATE:20260921
@@ -129,5 +117,17 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  metastasis-cerebral-conocimiento-para-avanzar.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/metastas
  is-cerebral-conocimiento-para-avanzar.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The New Housing Crisis – Causes\, Consequences & Solutions
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+DTSTAMP:20260919T125816Z
+UID:c06b0b3b0fbabe14be696b5c8f709a6763dc16b7bb70dad88ba11eb443dd985d@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ the-new-housing-crisis-causes-consequences-solutions.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/the-new-
+ housing-crisis-causes-consequences-solutions.html
 END:VEVENT
 END:VCALENDAR
