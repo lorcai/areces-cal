@@ -119,15 +119,15 @@ URL:https://www.fundacionareces.es/fundacionareces/es/actividades/metastas
  is-cerebral-conocimiento-para-avanzar.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:The New Housing Crisis – Causes\, Consequences & Solutions
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-DTSTAMP:20260919T125816Z
-UID:c06b0b3b0fbabe14be696b5c8f709a6763dc16b7bb70dad88ba11eb443dd985d@arece
+SUMMARY:Cómo lidiar con una superpotencia impredecible
+DTSTART;VALUE=DATE:20261013
+DTEND;VALUE=DATE:20261014
+DTSTAMP:20260921T154454Z
+UID:f126a4aa1443983c3358c0da3e30224aeef361c2f890d9a0e4012a4b481202d2@arece
  s
 DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- the-new-housing-crisis-causes-consequences-solutions.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/the-new-
- housing-crisis-causes-consequences-solutions.html
+ como-lidiar-con-una-superpotencia-impredecible.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/como-lid
+ iar-con-una-superpotencia-impredecible.html
 END:VEVENT
 END:VCALENDAR
