@@ -2,20 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:Severo Ochoa y sus coetáneos: el legado de los grandes biólogos 
- de la historia
-DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260922
-DTSTAMP:20260713T120830Z
-UID:349f25202fa7810f1260f847c504cda78f358722583c1a55d8476445edf98e6f@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- severo-ochoa-y-sus-coetaneos-el-legado-de-los-grandes-biologos-de-la-histo
- ria.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/severo-o
- choa-y-sus-coetaneos-el-legado-de-los-grandes-biologos-de-la-historia.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:La Economía de Género hoy: evidencias\, retos y políticas públ
  icas
 DTSTART;VALUE=DATE:20260922
@@ -129,5 +115,17 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  como-lidiar-con-una-superpotencia-impredecible.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/como-lid
  iar-con-una-superpotencia-impredecible.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:The New Housing Crisis – Causes\, Consequences & Solutions
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+DTSTAMP:20260919T125816Z
+UID:c06b0b3b0fbabe14be696b5c8f709a6763dc16b7bb70dad88ba11eb443dd985d@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ the-new-housing-crisis-causes-consequences-solutions.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/the-new-
+ housing-crisis-causes-consequences-solutions.html
 END:VEVENT
 END:VCALENDAR
