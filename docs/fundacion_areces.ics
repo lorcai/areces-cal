@@ -2,19 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:La Economía de Género hoy: evidencias\, retos y políticas públ
- icas
-DTSTART;VALUE=DATE:20260922
-DTEND;VALUE=DATE:20260923
-DTSTAMP:20260715T105307Z
-UID:a2f6fb53b6f6aecf9dfab6bf155cad3ee585e4271382be3521a077372af86ab8@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- la-economia-de-genero-hoy-evidencias-retos-y-politicas-publicas.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-econo
- mia-de-genero-hoy-evidencias-retos-y-politicas-publicas.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Indicadores comentados sobre el estado del sistema educativo espa
  ñol 2026
 DTSTART;VALUE=DATE:20260923
@@ -127,5 +114,17 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  the-new-housing-crisis-causes-consequences-solutions.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/the-new-
  housing-crisis-causes-consequences-solutions.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Artistas de la historia: Charles de Gaulle y Winston Churchill
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+DTSTAMP:20260728T112014Z
+UID:84ff19ab5ca1065d639658bda0d0374e44b773aac68b030d9f8d9002f351520c@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ artistas-de-la-historia-charles-de-gaulle-y-winston-churchill.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/artistas
+ -de-la-historia-charles-de-gaulle-y-winston-churchill.html
 END:VEVENT
 END:VCALENDAR
