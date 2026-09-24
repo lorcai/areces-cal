@@ -2,20 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:Indicadores comentados sobre el estado del sistema educativo espa
- ñol 2026
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260924
-DTSTAMP:20260716T110238Z
-UID:b5349f0bc532c1b7f7187f857929ac245651b56645d68e97498daee4381b8121@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- indicadores-comentados-sobre-el-estado-del-sistema-educativo-espanol-2026.
- html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/indicado
- res-comentados-sobre-el-estado-del-sistema-educativo-espanol-2026.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ecosistema científico y tecnológico español
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
@@ -126,5 +112,20 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  artistas-de-la-historia-charles-de-gaulle-y-winston-churchill.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/artistas
  -de-la-historia-charles-de-gaulle-y-winston-churchill.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:¿Por qué se ha encarecido tanto la vivienda en Europa? ¿Qué se
+  puede hacer al respecto?
+DTSTART;VALUE=DATE:20261015
+DTEND;VALUE=DATE:20261016
+DTSTAMP:20260924T140543Z
+UID:95e716388162712334255e32a015f493dfb7f649933c8accf8d214c7e722fb48@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ por-que-se-ha-encarecido-tanto-la-vivienda-en-europa-que-se-puede-hacer-al
+ -respecto.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/por-que-
+ se-ha-encarecido-tanto-la-vivienda-en-europa-que-se-puede-hacer-al-respect
+ o.html
 END:VEVENT
 END:VCALENDAR
