@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:Ecosistema científico y tecnológico español
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260925
-DTSTAMP:20260702T113624Z
-UID:05c39ceec13549668e0f460eaf0134e385963eaec6e4b9df317c67f9e20a5ccb@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- ecosistema-cientifico-y-tecnologico-espanol.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/ecosiste
- ma-cientifico-y-tecnologico-espanol.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Olmos y bosques en riesgo: patrimonio natural frente al fuego y el
   olvido
 DTSTART;VALUE=DATE:20260928
@@ -127,5 +115,17 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/por-que-
  se-ha-encarecido-tanto-la-vivienda-en-europa-que-se-puede-hacer-al-respect
  o.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El hervidero
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+DTSTAMP:20260925T142905Z
+UID:b8dea872c29cc03314ad988da9536e6b621b19f8212af019921ca7b8baab9161@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ el-hervidero.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/el-hervi
+ dero.html
 END:VEVENT
 END:VCALENDAR
