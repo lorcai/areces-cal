@@ -2,20 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:Olmos y bosques en riesgo: patrimonio natural frente al fuego y el
-  olvido
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20260929
-DTSTAMP:20260626T114609Z
-UID:522c7b54240ed53621170cc4d7223399e65a9e2405b4009419f56b9b9bb8bf16@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- olmos-y-bosques-en-riesgo-patrimonio-natural-frente-al-fuego-y-el-olvido.h
- tml
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/olmos-y-
- bosques-en-riesgo-patrimonio-natural-frente-al-fuego-y-el-olvido.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Homenaje al profesor Amable Liñán\, referente de la ingeniería 
  de combustión
 DTSTART;VALUE=DATE:20261005
@@ -127,5 +113,17 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  el-hervidero.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/el-hervi
  dero.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La doble escalera: lo macro y lo micro en la física
+DTSTART;VALUE=DATE:20261020
+DTEND;VALUE=DATE:20261021
+DTSTAMP:20260623T120914Z
+UID:f31bbcb916593ba1f71612843108acb1bac58b8463a89f7d01aca0308abab5d8@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ la-doble-escalera-lo-macro-y-lo-micro-en-la-fisica.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-doble
+ -escalera-lo-macro-y-lo-micro-en-la-fisica.html
 END:VEVENT
 END:VCALENDAR
