@@ -2,20 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:Homenaje al profesor Amable Liñán\, referente de la ingeniería 
- de combustión
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-DTSTAMP:20260901T140032Z
-UID:28e9546911aae7d0e612c550848ca48feafc2eee763d0f8b92e7f1e1cb65312e@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- homenaje-al-profesor-amable-linan-referente-de-la-ingenieria-de-combustion
- .html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/homenaje
- -al-profesor-amable-linan-referente-de-la-ingenieria-de-combustion.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Geopolítica y tecnología: las nuevas fronteras
 DTSTART;VALUE=DATE:20261007
 DTEND;VALUE=DATE:20261008
@@ -125,5 +111,19 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  la-doble-escalera-lo-macro-y-lo-micro-en-la-fisica.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-doble
  -escalera-lo-macro-y-lo-micro-en-la-fisica.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La proyección de la cultura iberoamericana en el nuevo escenario 
+ global
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261022
+DTSTAMP:20261006T154523Z
+UID:a3681023e9e791af45d5fd7c4debcace406ee551c5ecd5afe1c41e093f36286a@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ la-proyeccion-de-la-cultura-iberoamericana-en-el-nuevo-escenario-global.ht
+ ml
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-proye
+ ccion-de-la-cultura-iberoamericana-en-el-nuevo-escenario-global.html
 END:VEVENT
 END:VCALENDAR
