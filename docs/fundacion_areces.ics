@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:Geopolítica y tecnología: las nuevas fronteras
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-DTSTAMP:20260908T132349Z
-UID:86b1b860b37f4ab38005164b08f0932a3dd786b1e580e07806330a5d93c4cc39@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- geopolitica-y-tecnologia-las-nuevas-fronteras.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/geopolit
- ica-y-tecnologia-las-nuevas-fronteras.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:ELA: motoneurona y no motoneurona
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261009
@@ -125,5 +113,17 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  ml
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-proye
  ccion-de-la-cultura-iberoamericana-en-el-nuevo-escenario-global.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Planteamiento de la Restauración canovista
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261023
+DTSTAMP:20261008T161150Z
+UID:3150f20197380ce3f3706aae5fa67543cc3ffbfbe0d840e0cb714611e475faf3@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ el-planteamiento-de-la-restauracion-canovista.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/el-plant
+ eamiento-de-la-restauracion-canovista.html
 END:VEVENT
 END:VCALENDAR
