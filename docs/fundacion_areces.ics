@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:ELA: motoneurona y no motoneurona
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-DTSTAMP:20260911T132241Z
-UID:56b57dd434e2bb0fe3de1b697b49c4cc1f4ca158f0ae5cddc67a69add44feebc@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- ela-motoneurona-y-no-motoneurona.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/ela-moto
- neurona-y-no-motoneurona.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Metástasis cerebral: conocimiento para avanzar
 DTSTART;VALUE=DATE:20261009
 DTEND;VALUE=DATE:20261010
@@ -125,5 +113,17 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  el-planteamiento-de-la-restauracion-canovista.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/el-plant
  eamiento-de-la-restauracion-canovista.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Innovación y avances en farmacología
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261024
+DTSTAMP:20261009T155542Z
+UID:d51413ff451cc4b9252b82f14ed9a4fcc10a78d25d27c473bd2796870b30ad04@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ innovacion-y-avances-en-farmacologia1.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/innovaci
+ on-y-avances-en-farmacologia1.html
 END:VEVENT
 END:VCALENDAR
