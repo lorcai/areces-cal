@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:Cómo lidiar con una superpotencia impredecible
-DTSTART;VALUE=DATE:20261013
-DTEND;VALUE=DATE:20261014
-DTSTAMP:20260921T154454Z
-UID:f126a4aa1443983c3358c0da3e30224aeef361c2f890d9a0e4012a4b481202d2@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- como-lidiar-con-una-superpotencia-impredecible.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/como-lid
- iar-con-una-superpotencia-impredecible.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:The New Housing Crisis – Causes\, Consequences & Solutions
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
@@ -125,5 +113,19 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  maquinas-y-motores-moleculares-de-la-biologia-a-la-quimica.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/maquinas
  -y-motores-moleculares-de-la-biologia-a-la-quimica.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:¿Para qué sirve la historia? La historia en las decisiones empre
+ sariales
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+DTSTAMP:20261014T142349Z
+UID:404f52fa474ddebabc21fd50bf9e01cb0ec3adda3dfff53061585f1e9e2dabd5@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ para-que-sirve-la-historia-la-historia-en-las-decisiones-empresariales.htm
+ l
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/para-que
+ -sirve-la-historia-la-historia-en-las-decisiones-empresariales.html
 END:VEVENT
 END:VCALENDAR
