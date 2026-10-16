@@ -14,21 +14,6 @@ URL:https://www.fundacionareces.es/fundacionareces/es/actividades/the-new-
  housing-crisis-causes-consequences-solutions.html
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:¿Por qué se ha encarecido tanto la vivienda en Europa? ¿Qué se
-  puede hacer al respecto?
-DTSTART;VALUE=DATE:20261015
-DTEND;VALUE=DATE:20261016
-DTSTAMP:20260924T140543Z
-UID:95e716388162712334255e32a015f493dfb7f649933c8accf8d214c7e722fb48@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- por-que-se-ha-encarecido-tanto-la-vivienda-en-europa-que-se-puede-hacer-al
- -respecto.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/por-que-
- se-ha-encarecido-tanto-la-vivienda-en-europa-que-se-puede-hacer-al-respect
- o.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:El hervidero
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
@@ -128,5 +113,20 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  cirugia-toracica-en-espana-estado-actual-retos-y-perspectivas-futuras.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/cirugia-
  toracica-en-espana-estado-actual-retos-y-perspectivas-futuras.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La balada en lengua vasca. De las leyendas europeas a las luchas d
+ e linajes y tragedias familiares
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261030
+DTSTAMP:20261016T134818Z
+UID:1af7466d15b4047189977a4616d37d7545a09eb9057141378e46479307a42749@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ la-balada-en-lengua-vasca-de-las-leyendas-europeas-a-las-luchas-de-linajes
+ -y-tragedias-familiares.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-balad
+ a-en-lengua-vasca-de-las-leyendas-europeas-a-las-luchas-de-linajes-y-trage
+ dias-familiares.html
 END:VEVENT
 END:VCALENDAR
