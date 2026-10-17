@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:The New Housing Crisis – Causes\, Consequences & Solutions
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-DTSTAMP:20260919T125816Z
-UID:c06b0b3b0fbabe14be696b5c8f709a6763dc16b7bb70dad88ba11eb443dd985d@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- the-new-housing-crisis-causes-consequences-solutions.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/the-new-
- housing-crisis-causes-consequences-solutions.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:El hervidero
 DTSTART;VALUE=DATE:20261019
 DTEND;VALUE=DATE:20261020
@@ -128,5 +116,17 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-balad
  a-en-lengua-vasca-de-las-leyendas-europeas-a-las-luchas-de-linajes-y-trage
  dias-familiares.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Ramón Menéndez Pidal y Alfonso Reyes\, los padres fundadores
+DTSTART;VALUE=DATE:20261103
+DTEND;VALUE=DATE:20261104
+DTSTAMP:20261017T124614Z
+UID:2eb69d371e97cd6827ed539bd05d516cc8ddd9da54b635d55500e21210243847@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ ramon-menendez-pidal-y-alfonso-reyes-los-padres-fundadores.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/ramon-me
+ nendez-pidal-y-alfonso-reyes-los-padres-fundadores.html
 END:VEVENT
 END:VCALENDAR
