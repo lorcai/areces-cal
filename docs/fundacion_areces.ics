@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:El hervidero
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-DTSTAMP:20260925T142905Z
-UID:b8dea872c29cc03314ad988da9536e6b621b19f8212af019921ca7b8baab9161@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- el-hervidero.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/el-hervi
- dero.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:La doble escalera: lo macro y lo micro en la física
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
@@ -128,5 +116,17 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  ramon-menendez-pidal-y-alfonso-reyes-los-padres-fundadores.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/ramon-me
  nendez-pidal-y-alfonso-reyes-los-padres-fundadores.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:De la convergencia global al enfrentamiento multipolar
+DTSTART;VALUE=DATE:20261105
+DTEND;VALUE=DATE:20261106
+DTSTAMP:20261020T141034Z
+UID:1ff42d70125b72a374a0a3051b5d20cb3c1b69284e4179ac67eeb5debd3f5214@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ de-la-convergencia-global-al-enfrentamiento-multipolar.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/de-la-co
+ nvergencia-global-al-enfrentamiento-multipolar.html
 END:VEVENT
 END:VCALENDAR
