@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:La doble escalera: lo macro y lo micro en la física
-DTSTART;VALUE=DATE:20261020
-DTEND;VALUE=DATE:20261021
-DTSTAMP:20260623T120914Z
-UID:f31bbcb916593ba1f71612843108acb1bac58b8463a89f7d01aca0308abab5d8@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- la-doble-escalera-lo-macro-y-lo-micro-en-la-fisica.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-doble
- -escalera-lo-macro-y-lo-micro-en-la-fisica.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:La proyección de la cultura iberoamericana en el nuevo escenario 
  global
 DTSTART;VALUE=DATE:20261021
@@ -128,5 +116,20 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  de-la-convergencia-global-al-enfrentamiento-multipolar.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/de-la-co
  nvergencia-global-al-enfrentamiento-multipolar.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El futuro de la demanda energética y las energías limpias: un de
+ bate inaplazable
+DTSTART;VALUE=DATE:20261112
+DTEND;VALUE=DATE:20261113
+DTSTAMP:20261021T142320Z
+UID:f1035f154dde19f9367a7aff0d316d1c1cc17e3a7eb4e204138899a8df762332@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ el-futuro-de-la-demanda-energetica-y-las-energias-limpias-un-debate-inapla
+ zable.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/el-futur
+ o-de-la-demanda-energetica-y-las-energias-limpias-un-debate-inaplazable.ht
+ ml
 END:VEVENT
 END:VCALENDAR
