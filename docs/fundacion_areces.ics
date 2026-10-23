@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:El Planteamiento de la Restauración canovista
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261023
-DTSTAMP:20261008T161150Z
-UID:3150f20197380ce3f3706aae5fa67543cc3ffbfbe0d840e0cb714611e475faf3@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- el-planteamiento-de-la-restauracion-canovista.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/el-plant
- eamiento-de-la-restauracion-canovista.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Innovación y avances en farmacología
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
@@ -129,5 +117,20 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  luces-y-sombras-de-la-quimica-espanola-en-el-siglo-xx.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/luces-y-
  sombras-de-la-quimica-espanola-en-el-siglo-xx.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El Romancero impreso en el siglo XVI. La imprenta popular y los pl
+ iegos sueltos góticos
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+DTSTAMP:20261023T140726Z
+UID:08f66bcf88185f34a9b9e2abcac230841f25275d11a97b88c006a4e0abbfc3ef@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ el-romancero-impreso-en-el-siglo-xvi-la-imprenta-popular-y-los-pliegos-sue
+ ltos-goticos.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/el-roman
+ cero-impreso-en-el-siglo-xvi-la-imprenta-popular-y-los-pliegos-sueltos-got
+ icos.html
 END:VEVENT
 END:VCALENDAR
