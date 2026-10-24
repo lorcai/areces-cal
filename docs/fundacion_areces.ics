@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:Innovación y avances en farmacología
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261024
-DTSTAMP:20261009T155542Z
-UID:d51413ff451cc4b9252b82f14ed9a4fcc10a78d25d27c473bd2796870b30ad04@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- innovacion-y-avances-en-farmacologia1.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/innovaci
- on-y-avances-en-farmacologia1.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Máquinas y motores moleculares: de la biología a la química
 DTSTART;VALUE=DATE:20261026
 DTEND;VALUE=DATE:20261027
@@ -132,5 +120,17 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/el-roman
  cero-impreso-en-el-siglo-xvi-la-imprenta-popular-y-los-pliegos-sueltos-got
  icos.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El poder de las expectativas: Premios Nobel de Economía 2026
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+DTSTAMP:20261024T131024Z
+UID:616421bd21b95f148b93583ed72d001e7e2b268c79e8a4a97d0162943c901a35@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ el-poder-de-las-expectativas-premios-nobel-de-economia-2026.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/el-poder
+ -de-las-expectativas-premios-nobel-de-economia-2026.html
 END:VEVENT
 END:VCALENDAR
