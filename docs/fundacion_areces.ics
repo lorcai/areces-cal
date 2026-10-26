@@ -68,6 +68,18 @@ URL:https://www.fundacionareces.es/fundacionareces/es/actividades/ramon-me
  nendez-pidal-y-alfonso-reyes-los-padres-fundadores.html
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:Situación Actual de las Enfermedades Raras en España III
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+DTSTAMP:20261026T155703Z
+UID:d62009ef2432c04f75fed40bc9bec2b30d049765bd3c61dd90858c0670f1b4d4@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ situacion-actual-enfermedades-raras-espana.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/situacio
+ n-actual-enfermedades-raras-espana.html
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:De la convergencia global al enfrentamiento multipolar
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
@@ -120,17 +132,5 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/el-roman
  cero-impreso-en-el-siglo-xvi-la-imprenta-popular-y-los-pliegos-sueltos-got
  icos.html
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:El poder de las expectativas: Premios Nobel de Economía 2026
-DTSTART;VALUE=DATE:20261118
-DTEND;VALUE=DATE:20261119
-DTSTAMP:20261024T131024Z
-UID:616421bd21b95f148b93583ed72d001e7e2b268c79e8a4a97d0162943c901a35@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- el-poder-de-las-expectativas-premios-nobel-de-economia-2026.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/el-poder
- -de-las-expectativas-premios-nobel-de-economia-2026.html
 END:VEVENT
 END:VCALENDAR
