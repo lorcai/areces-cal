@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:Máquinas y motores moleculares: de la biología a la química
-DTSTART;VALUE=DATE:20261026
-DTEND;VALUE=DATE:20261027
-DTSTAMP:20261010T150633Z
-UID:d97ddec86810521f6ef9058026519c70fc859a12773c95ae08e85ba4d846d566@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- maquinas-y-motores-moleculares-de-la-biologia-a-la-quimica.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/maquinas
- -y-motores-moleculares-de-la-biologia-a-la-quimica.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:¿Para qué sirve la historia? La historia en las decisiones empre
  sariales
 DTSTART;VALUE=DATE:20261027
@@ -132,5 +120,17 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/el-roman
  cero-impreso-en-el-siglo-xvi-la-imprenta-popular-y-los-pliegos-sueltos-got
  icos.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:El poder de las expectativas: Premios Nobel de Economía 2026
+DTSTART;VALUE=DATE:20261118
+DTEND;VALUE=DATE:20261119
+DTSTAMP:20261024T131024Z
+UID:616421bd21b95f148b93583ed72d001e7e2b268c79e8a4a97d0162943c901a35@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ el-poder-de-las-expectativas-premios-nobel-de-economia-2026.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/el-poder
+ -de-las-expectativas-premios-nobel-de-economia-2026.html
 END:VEVENT
 END:VCALENDAR
