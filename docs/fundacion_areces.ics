@@ -2,20 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:¿Para qué sirve la historia? La historia en las decisiones empre
- sariales
-DTSTART;VALUE=DATE:20261027
-DTEND;VALUE=DATE:20261028
-DTSTAMP:20261014T142349Z
-UID:404f52fa474ddebabc21fd50bf9e01cb0ec3adda3dfff53061585f1e9e2dabd5@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- para-que-sirve-la-historia-la-historia-en-las-decisiones-empresariales.htm
- l
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/para-que
- -sirve-la-historia-la-historia-en-las-decisiones-empresariales.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Cirugía Torácica en España: estado actual\, retos y perspectiva
  s futuras
 DTSTART;VALUE=DATE:20261028
@@ -132,5 +118,17 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  el-poder-de-las-expectativas-premios-nobel-de-economia-2026.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/el-poder
  -de-las-expectativas-premios-nobel-de-economia-2026.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La oposición al régimen: de la lucha a la nostalgia
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261120
+DTSTAMP:20261028T154742Z
+UID:b008814c6bff08789c19f1bcd459f4706e486ffb0d4df6ad95ea91b6420eecee@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ la-oposicion-al-regimen-de-la-lucha-a-la-nostalgia.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-oposi
+ cion-al-regimen-de-la-lucha-a-la-nostalgia.html
 END:VEVENT
 END:VCALENDAR
