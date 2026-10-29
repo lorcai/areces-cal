@@ -2,19 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:Cirugía Torácica en España: estado actual\, retos y perspectiva
- s futuras
-DTSTART;VALUE=DATE:20261028
-DTEND;VALUE=DATE:20261029
-DTSTAMP:20261015T140117Z
-UID:302c6ff18f398ac73a24284220cb8892bc9605d4ff0846d25af679fbb1639022@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- cirugia-toracica-en-espana-estado-actual-retos-y-perspectivas-futuras.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/cirugia-
- toracica-en-espana-estado-actual-retos-y-perspectivas-futuras.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:La balada en lengua vasca. De las leyendas europeas a las luchas d
  e linajes y tragedias familiares
 DTSTART;VALUE=DATE:20261029
@@ -130,5 +117,17 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  la-oposicion-al-regimen-de-la-lucha-a-la-nostalgia.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-oposi
  cion-al-regimen-de-la-lucha-a-la-nostalgia.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Comprendiendo la red neurovascular para prevenir la demencia
+DTSTART;VALUE=DATE:20261120
+DTEND;VALUE=DATE:20261121
+DTSTAMP:20260702T113624Z
+UID:e482f9bbc9dedf52db9d1067f930f4a5e2e4e50621cf136eb210cb4943805327@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ comprendiendo-la-red-neurovascular-para-prevenir-la-demencia.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/comprend
+ iendo-la-red-neurovascular-para-prevenir-la-demencia.html
 END:VEVENT
 END:VCALENDAR
