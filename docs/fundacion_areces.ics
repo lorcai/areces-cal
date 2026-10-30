@@ -2,21 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:La balada en lengua vasca. De las leyendas europeas a las luchas d
- e linajes y tragedias familiares
-DTSTART;VALUE=DATE:20261029
-DTEND;VALUE=DATE:20261030
-DTSTAMP:20261016T134818Z
-UID:1af7466d15b4047189977a4616d37d7545a09eb9057141378e46479307a42749@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- la-balada-en-lengua-vasca-de-las-leyendas-europeas-a-las-luchas-de-linajes
- -y-tragedias-familiares.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-balad
- a-en-lengua-vasca-de-las-leyendas-europeas-a-las-luchas-de-linajes-y-trage
- dias-familiares.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Ramón Menéndez Pidal y Alfonso Reyes\, los padres fundadores
 DTSTART;VALUE=DATE:20261103
 DTEND;VALUE=DATE:20261104
@@ -129,5 +114,17 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  comprendiendo-la-red-neurovascular-para-prevenir-la-demencia.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/comprend
  iendo-la-red-neurovascular-para-prevenir-la-demencia.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Enfermedades Neurodegenerativas y Demencias.
+DTSTART;VALUE=DATE:20261123
+DTEND;VALUE=DATE:20261124
+DTSTAMP:20261030T154137Z
+UID:700a0f5eb3e624fbaabc1464b7397afeabd82d65864d43ae560f4f830d8ad052@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ enfermedades-neurodegenerativas-y-demencias.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/enfermed
+ ades-neurodegenerativas-y-demencias.html
 END:VEVENT
 END:VCALENDAR
