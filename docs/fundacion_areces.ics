@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:Ramón Menéndez Pidal y Alfonso Reyes\, los padres fundadores
-DTSTART;VALUE=DATE:20261103
-DTEND;VALUE=DATE:20261104
-DTSTAMP:20261017T124614Z
-UID:2eb69d371e97cd6827ed539bd05d516cc8ddd9da54b635d55500e21210243847@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- ramon-menendez-pidal-y-alfonso-reyes-los-padres-fundadores.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/ramon-me
- nendez-pidal-y-alfonso-reyes-los-padres-fundadores.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Situación Actual de las Enfermedades Raras en España III
 DTSTART;VALUE=DATE:20261104
 DTEND;VALUE=DATE:20261105
@@ -126,5 +114,17 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  enfermedades-neurodegenerativas-y-demencias.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/enfermed
  ades-neurodegenerativas-y-demencias.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Migration in the 21st Century: Policies\, Realities and Challenges
+DTSTART;VALUE=DATE:20261125
+DTEND;VALUE=DATE:20261126
+DTSTAMP:20261104T165617Z
+UID:33d0fa76aa5aceeb2f994ec90aa49fa6b8b7c1732c19309f8ebfd0b42068e159@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ migration-in-the-21st-century-policies-realities-and-challenges.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/migratio
+ n-in-the-21st-century-policies-realities-and-challenges.html
 END:VEVENT
 END:VCALENDAR
