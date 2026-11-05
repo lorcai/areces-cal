@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:Situación Actual de las Enfermedades Raras en España III
-DTSTART;VALUE=DATE:20261104
-DTEND;VALUE=DATE:20261105
-DTSTAMP:20261026T155703Z
-UID:d62009ef2432c04f75fed40bc9bec2b30d049765bd3c61dd90858c0670f1b4d4@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- situacion-actual-enfermedades-raras-espana.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/situacio
- n-actual-enfermedades-raras-espana.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:De la convergencia global al enfrentamiento multipolar
 DTSTART;VALUE=DATE:20261105
 DTEND;VALUE=DATE:20261106
@@ -126,5 +114,20 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  migration-in-the-21st-century-policies-realities-and-challenges.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/migratio
  n-in-the-21st-century-policies-realities-and-challenges.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La política de las migraciones no deseadas: dilemas de solidarida
+ d en la gobernanza europea
+DTSTART;VALUE=DATE:20261126
+DTEND;VALUE=DATE:20261127
+DTSTAMP:20261105T171053Z
+UID:c035fcf3bd9d8abcf9bfd73149e074b393962db0feec6bb51dffd23b4a7befc8@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ la-politica-de-las-migraciones-no-deseadas-dilemas-de-solidaridad-en-la-go
+ bernanza-europea.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-polit
+ ica-de-las-migraciones-no-deseadas-dilemas-de-solidaridad-en-la-gobernanza
+ -europea.html
 END:VEVENT
 END:VCALENDAR
