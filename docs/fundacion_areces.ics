@@ -2,18 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:De la convergencia global al enfrentamiento multipolar
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
-DTSTAMP:20261020T141034Z
-UID:1ff42d70125b72a374a0a3051b5d20cb3c1b69284e4179ac67eeb5debd3f5214@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- de-la-convergencia-global-al-enfrentamiento-multipolar.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/de-la-co
- nvergencia-global-al-enfrentamiento-multipolar.html
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:El futuro de la demanda energética y las energías limpias: un de
  bate inaplazable
 DTSTART;VALUE=DATE:20261112
@@ -129,5 +117,18 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-polit
  ica-de-las-migraciones-no-deseadas-dilemas-de-solidaridad-en-la-gobernanza
  -europea.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:La influencia norteamericana sobre la arquitectura española en el
+  período de entre guerras
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+DTSTAMP:20261106T163834Z
+UID:187b9c9a772ab67e459535ced8f638d8a16a045c8ea532437b43319f0c7fe28a@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ la-influencia-norteamericana-sobre-la-arquitectura-espanola.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-influ
+ encia-norteamericana-sobre-la-arquitectura-espanola.html
 END:VEVENT
 END:VCALENDAR
