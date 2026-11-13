@@ -2,21 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Research Events//Areces//EN
 BEGIN:VEVENT
-SUMMARY:El futuro de la demanda energética y las energías limpias: un de
- bate inaplazable
-DTSTART;VALUE=DATE:20261112
-DTEND;VALUE=DATE:20261113
-DTSTAMP:20261021T142320Z
-UID:f1035f154dde19f9367a7aff0d316d1c1cc17e3a7eb4e204138899a8df762332@arece
- s
-DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
- el-futuro-de-la-demanda-energetica-y-las-energias-limpias-un-debate-inapla
- zable.html
-URL:https://www.fundacionareces.es/fundacionareces/es/actividades/el-futur
- o-de-la-demanda-energetica-y-las-energias-limpias-un-debate-inaplazable.ht
- ml
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:Luces y sombras de la química española en el siglo XX
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
@@ -130,5 +115,17 @@ DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
  la-influencia-norteamericana-sobre-la-arquitectura-espanola.html
 URL:https://www.fundacionareces.es/fundacionareces/es/actividades/la-influ
  encia-norteamericana-sobre-la-arquitectura-espanola.html
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Las artes y las letras en la España del siglo XXI: Arquitectura
+DTSTART;VALUE=DATE:20261201
+DTEND;VALUE=DATE:20261202
+DTSTAMP:20261113T170022Z
+UID:4d59e084e75f34bf8ff1ec03cee57ea6f9d95afdbbcf4d05c31df58399e1b11f@arece
+ s
+DESCRIPTION:https://www.fundacionareces.es/fundacionareces/es/actividades/
+ las-artes-y-las-letras-en-la-espana-del-siglo-xxi-arquitectura.html
+URL:https://www.fundacionareces.es/fundacionareces/es/actividades/las-arte
+ s-y-las-letras-en-la-espana-del-siglo-xxi-arquitectura.html
 END:VEVENT
 END:VCALENDAR
